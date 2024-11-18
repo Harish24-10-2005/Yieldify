@@ -1,0 +1,112 @@
+Black rot (grape disease)
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+(Redirected from Grape black rot)
+Guignardia bidwellii
+Scientific classificationEdit this classification
+Domain:	Eukaryota
+Kingdom:	Fungi
+Division:	Ascomycota
+Class:	Dothideomycetes
+Order:	Botryosphaeriales
+Family:	Botryosphaeriaceae
+Genus:	Guignardia
+Species:	G. bidwellii
+Binomial name
+Guignardia bidwellii
+(Ellis) Viala & Ravaz (1892)
+Synonyms
+Naemospora ampelicida Engelm. [as 'Naemaspora'] (1863)
+Sphaeria bidwellii Ellis (1880)
+Physalospora bidwellii (Ellis) Sacc. (1882)
+Laestadia bidwellii (Ellis) Viala & Ravaz (1888)
+Phyllostictina uvicola (Berk. & M.A.Curtis) Höhn. (1919)
+Botryosphaeria bidwellii (Ellis) Petr. (1958)
+Phyllosticta ampelicida (Engelm.) Aa (1973)
+Carlia bidwellii (Ellis) Prunet (1989)
+
+Black rot of grape
+
+damages on fruits
+Causal agents	Guignardia bidwellii
+Hosts	Grapevine
+Vectors	rain
+EPPO Code	GUIGBI
+Distribution	originated from eastern North America, but now occurs in portions of Europe, South America and Asia
+Symptoms	small, brown circular lesions on leaves, "mummies" on fruits
+Treatment	choice of right cultivars, mixture of cultural and chemical control practices
+
+damages on leaves
+Grape black rot is a fungal disease caused by an ascomycetous fungus, Guignardia bidwellii, that attacks grape vines during hot and humid weather. “Grape black rot originated in eastern North America, but now occurs in portions of Europe, South America, and Asia. It can cause complete crop loss in warm, humid climates, but is virtually unknown in regions with arid summers.”[1] The name comes from the black fringe that borders growing brown patches on the leaves. The disease also attacks other parts of the plant, “all green parts of the vine: the shoots, leaf and fruit stems, tendrils, and fruit. The most damaging effect is to the fruit”.[2]
+
+Grape black rot affects many grape growers throughout the World, therefore, it is important to understand the disease life cycle and environmental conditions to best manage the disease. Once infection takes place, different methods are available to control the disease.
+
+Disease cycle
+The disease cycle begins with the overwintering structures. The grape black rot pathogen overwinters in many parts of the grape vine, especially mummies and lesions, and is able to overwinter on the vineyard floor.[3] In fact, "Viable lesions capable of producing conidia can persist in wood for at least 2 years."[4] Spring rains release the ascospores and conidia contained in the overwintering structures and these spores are “spread by wind and rain‐splash to infect leaves, blossoms and young fruit”.[5] Some of the mummies on the ground can have a significant discharge of ascospores that begins about two to three weeks after bud breaks and will mature one to two weeks after the start of bloom.[1] In the presence of moisture, these ascospores germinate slowly, taking 36 to 48 hours, but eventually penetrate the young leaves and fruit stems (pedicels). The infections become visible after 8 to 25 days. The period that overwintering spores require to cause infection depends on the inoculum source. If there is a large source of inoculum, the infection will set in earlier. The second type of spore, conidia, “are dispersed short distances (centimetres to metres/inches to feet) by splashing rain drops" in rain storms throughout the summer.[1] Infection occurs when either of the two spore types lands on green grape tissue and the tissue remains wet for a "sufficient length of time, which is dependent on temperature."[1] For example, at 7 °C (45 °F) no infection will occur regardless of moisture, while at 10 °C (50 °F) it takes 24 hours of leaf wetness for a spore to germinate and infect the green grape tissue.[4] When a leaf or berry becomes infected, pycnidia form and produce conidia, contributing to repeated cycles of infections in summer rains.[6] At the end of the season, the fungus overwinters as pycnidia or pseudothecia within cane lesions or mummified fruit.[6] In the spring, the pycnidia will produce conidia once again and the pseudothecia produce ascospores.[6]  
+
+Environmental conditions for infection
+When the weather is moist, ascospores are produced and released throughout the entire spring and summer, providing continuous primary infection. The black rot fungus requires warm weather for optimal growth; cool weather slows its growth. A period of two to three days of rain, drizzle, or fog is also required for infection.[2] "Conidia spores can also form, within cane lesions or on mummies that have remained within the trellis, and these are dispersed by splashing rain drops.”[1] Raindrops transfer these spores by moving the spores to different plant parts, especially susceptible young leaves. “If water is present, the conidia germinate in 10 to 15 hours and penetrate young tissue. New black rot infections continue into late spring and summer during prolonged periods of warm, rainy weather. The conidia are capable of germinating and causing infection several months after being formed. During August, the pycnidia are transformed into an overwintering stage that, in turn, gives rise to pseudothecia within which the spring spores (ascospores) are produced. This ascospore is "forcibly discharged into the air and can travel considerable distances."[5] "Research has shown that ascospores are an important source of primary infections in the spring."[5] In the spring during wet weather, the "pycnidia on infected tissues absorb water and conidia are squeezed out."[5] "Conidia are splashed about randomly by rain and can infect any young tissue in less than 12 hours at temperatures between 20 to 30 °C (60 to 90 °F)."[5] A film of water on the vine surface is necessary for the infection to inoculate.[5] This completes the disease cycle.
+
+Symptoms
+Relatively small, brown circular lesions develop on infected leaves and within a few days tiny black spherical fruiting bodies (pycnidia) protrude from them. Elongated black lesions on the petiole may eventually girdle these organs, causing the affected leaves to wilt. Shoot infection results in large black elliptical lesions. These lesions may contribute to breakage of shoots by wind, or in severe cases, may girdle and kill young shoots altogether. This fungus bides its time. Most plants show very little signs of infection until it's too late. They will look very healthy until fruit sets. Even flowering will be normal.[1]
+
+Infection of the fruit is the most serious phase of the disease and may result in substantial economic loss. Infected berries first appear light or chocolate brown; it will have a spot that looks very round, like the eye of a bird. That spot will get larger and infect more of the fruit bunch and more of the plant. This creates masses of black pycnidia developing on the surface. Finally, infected berries shrivel and turn into hard black raisin-like bodies that are called mummies.[1]
+
+Control and management
+A mixture of cultural and chemical control practices can manage grape black rot disease caused by Guignardia bidwellii. Cultural control aspects involve the basics in plant care and field sanitation as well as cleanup after an infectious outbreak. Chemical control has a large influence to prevent but not eliminate disease.[citation needed]
+
+Cultural control
+
+Cultural control consists of the management of the fields and sanitation methods to optimally grow grape crops.[citation needed]
+
+Many universities and professors suggest the following cultural control practices:[citation needed]
+
+The first cultural control method is to choose the right grape cultivar for the region that the grape will be grown in. Grape cultivars differ in their susceptibility to diseases, including differences in the disease black rot. Some varieties are less susceptible, while others are more prone to the disease when the right environmental conditions occur. Through research, many lists of grapes varieties will show the amount of resistance a variety has to disease and how the variety should be grown. A list of grape varieties is a good place to start for selecting the right grape variety.
+
+Proper grape management in the field is important to control black rot disease. The placement of the grape plants is important to provide for proper aeration and lighting. “Choose a planting site where the vines will be exposed to full sun and good air circulation.”[2] Proper training of grape vines should be practiced. Many people use trellising to keep the vines off the ground. Trellising is a form of plant training, which is the arrangement of plant parts spatially to optimize productivity. Having the grape vines off the ground “reduces the time that vines remain wet from dew and rain and thus limits the amount of infection”.[2] As the current seasons growth occurs, tie the new growth in a spatial manner to allow for air circulation and sunlight to affect the whole grape plant.
+
+A proper pruning technique is another cultural control method to limit diseases. Prune each vine every year during the dormant period. This dormant pruning is heavily researched to provide the term-balanced pruning. This is done by using the weight of the previous year’s cane growth (1- yr-old canes) to determine how many buds should be retained for the current production year. Up to 2 kg (4 lb) of pruning can occur during the season. Remove excess growth, diseased and overwintering berries, leaves, and tendrils from the vineyard, and burn or otherwise destroy them.[2] This practice reduces inoculum of the fungus, thus limiting disease. During the season, minor pruning to train the canopy growth may occur to help with aeration.
+
+The last cultural control method would be to maintain clean fields once infected. Keep the field well managed, do not allow overgrowth of weeds or plants near the grapes. Once the plants have been infected “Remove all mummies from the canopy during the dormant pruning process. Mummies produce spores next to the susceptible grapevine tissues throughout the season; even relatively few can cause significant damage.”[7] Another technique to rid of infection can be to “cultivate the vineyard before bud-break to bury the mummified berries. Diseased berries covered with soil do not produce spores that will reach the developing vines”.[2]
+
+Chemical control
+
+The use of chemical control is widely available for agricultural purposes. To apply chemical applications, look at the fungicide label for proper use. Be sure that the conditions are optimal to spray to avoid drift and inefficiencies of the fungicide due to application. Fungicide guidelines must be followed. There are a wide variety of chemicals that are available for both regular and organic growers.
+
+Commercially, application of fungicides may be costly. To cut down on costs, one must understand the life cycle of the pathogens. Different fungicides are more effective at certain infection stages. Understand that throughout the development of the plant, different fungicides should be considered to protect plant health. In order to cut down on spraying costs, it is important to understand life cycle of the pathogen. “Research in New York demonstrated berries of most varieties become resistant to black rot infection 3-4 weeks after bloom, therefore, sprays for black rot should not be needed at this time”.[7] Understanding times to limit application is important for good production practices. This shows that preventative chemical measures before the three to four weeks would be optimal. Each region should develop their own fungicide application program in correlation with cultural practices.
+
+The most common fungicides that prove to be excellent for certain regions of the United States for controlling black rot are Sovran 50WG, Flint 50WG, Abound Flowable (2.08F), and Pristine 38WDG. Some of these fungicides may only be available for commercial use, however homeowners may go to a hardware store or fungicide distributor for similar fungicides.
+
+Sovran 50WG is registered for control of black rot. The Sovran label gives different use rates for control of different diseases. For black rot the rate is 220–340 g/ha (3.2–4.8 oz/acre). Sovran is excellent for control of black rot.[7]
+
+Flint 50WG is in the same general class of chemistry as Abound and Sovran. It is registered for the control of black rot, powdery mildew and suppression of downy mildew. For black rot the rate is 140 g/ha (2 oz/acre).[7]
+
+Abound is in the same general class of chemistry as Sovran and Flint (strobilurin). Abound is recommended at the rate of 800–1,130 ml/ha (11–15.4 US fl oz/acre). In university tests, the rate of 800–880 ml/ha (11–12 US fl oz/acre) provided good control of the mentioned diseases above. Abound Flowable is very phototoxic to apples of the variety McIntosh or related varieties. Do not allow spray to drift from grapes to apples.[7]
+
+Pristine 38WDG contains a combination of two active ingredients (pyraclostrobin, 12.8% and boscalid 25.2%).Pyraclostrobin, a strobilurin, is in the same general class of chemicals as Abound, Sovran, and Flint (strobilurin Pristine is registered for use at the rates of 6-10.5 oz/A. A maximum of six applications may be made per season). The label states, “Do not use on Concord, Worden, Fredonia, or related varieties due to possible foliar injury. Experience in New York suggests that Corot noir and Noiret may also be sensitive to Pristine.”[7]
+
+Black Rot Control for Organic Growers
+
+Excerpt from Dr. Wayne Wilcox’s Grape Disease Notes, 2009 suggests a possible way for controlling black rot on grapes in organic farming.
+
+Black rot is probably the “Achilles heel” for organic grape production in the East. In the only good trial that we’ve run with copper, it provided 40% disease control when applied at 2-week intervals, versus essentially 100% control with Nova. To try to avoid this, implement a rigorous program to remove mummies during pruning, and spray copper once a week throughout much of the growing season. This was hard on some of the hybrid vines and runs counter to the thinking of many with a “sustainable” orientation (after all, copper is an element and doesn’t break down into anything else, so it stays in the soil forever), but it did control the disease in an organically acceptable manner. Limit inoculum within the vineyard. Ideally, this would include removing or burying any mummies that you might encounter at the site. All mummified clusters should be removed from the trellis during pruning and from 2 to 6 weeks after cap fall and prune out any affected clusters before they allow the disease to spread, all the better (spores for disease spread are dispersed by rain primarily within the canopy, so should pose little risk of causing new infections if said clusters are simply dropped to the ground).
+
+Notes
+ Wilcox, Wayne F. "Black rot Guignardia bidwellii." Disease Identification Sheet No. 102GFSG-D4. 2003. Cornell. 24 Oct. 2010 http://www.nysipm.cornell.edu/factsheets/grapes/diseases/grape_br.pdf
+ Ries, Stephen M. "IPM : Reports on Plant Diseases : Black Rot of Grape." Integrated Pest Management at the University of Illinois. Dec. 1999. 24 Oct. 2010 http://ipm.illinois.edu/diseases/series700/rpd703/
+ "Managing Black Rot | Viticulture and Enology". grapesandwine.cals.cornell.edu. Retrieved 2020-05-13.
+ Sosnowski, M. R.; Emmett, R. W.; Wilcox, W. F.; Wicks, T. J. (2012). "Eradication of black rot (Guignardia bidwellii) from grapevines by drastic pruning". Plant Pathology. 61 (6): 1093–1102. doi:10.1111/j.1365-3059.2012.02595.x. ISSN 1365-3059.
+ Ellis, Michael A. "Fact sheet Agricultural and Natural Resources: Grape Black Rot." Department of Plant Pathology. The University of Ohio State Extension. 2008 http://ohioline.osu.edu/hyg-fact/3000/pdf/HYG_3004_08.pdf
+ Wilcox, Wayne F.; Gubler, Walter D.; Uyemoto, Jerry K. (2015-01-01). Compendium of Grape Diseases, Disorders, and Pests, Second Edition. Diseases and Pests Compendium Series. The American Phytopathological Society. doi:10.1094/9780890544815. ISBN 978-0-89054-481-5.
+ Bordelon, Bruce, Mike Ellis, and Celeste Welty. "Midwest Small Fruit and Grape Spray Guide." 2010. Ohio State University and Purdue University. 27 Oct. 2010 https://web.archive.org/web/20110718202032/http://www.ag.purdue.edu/hla/Hort/Documents/ID-169-2010.pdf%3E
+References
+Daniel Molitor (2009), Untersuchungen zur Biologie und Bekämpfung der Schwarzfäule (Guignardia bidwellii) an Weinreben (in German), Dissertation Justus-Liebig-Universität Gießen
+Horst Diedrich Mohr (2005), Farbatlas Krankheiten, Schädlinge und Nützlinge an der Weinrebe (in German), Stuttgart: Eugen Ulmer, ISBN 3-8001-4148-5
+Pierre Galet (1977), Les maladies et les parasites de la vigne, Band 1 (in German), Montpellier: Imprimerie du Paysan du Midi, ISBN 978-2-87777-038-5

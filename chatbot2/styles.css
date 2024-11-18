@@ -1,0 +1,146 @@
+/* Reset some basic styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: Arial, sans-serif;
+  background: url("C:/Users/HARISH/Documents/Project Agri/Yieldify/Yeildify-code/Yeildify-code/backgrouund/robot-performing-human-job.jpg") no-repeat center center fixed;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+}
+
+#chat-container {
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  max-width: 600px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  position: relative; /* For absolute positioning of the plant */
+}
+
+#chat-messages {
+  flex-grow: 1;
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  background: transparent; /* Make the background transparent to show the plant animation */
+}
+
+.bubble {
+  max-width: 70%;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 10px;
+  word-wrap: break-word;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.user-bubble {
+  background-color: #dcf8c6;
+  align-self: flex-end;
+  border-bottom-right-radius: 0;
+}
+
+.bot-bubble {
+  background-color: #fff;
+  align-self: flex-start;
+  border-bottom-left-radius: 0;
+  border: 1px solid #ccc;
+}
+
+#input-form {
+  display: flex;
+  padding: 10px;
+  border-top: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+#user-input {
+  flex-grow: 1;
+  padding: 10px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+#user-input:focus {
+  outline: none;
+}
+
+#input-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s;
+}
+
+#input-form button:hover {
+  background-color: #0056b3;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes bounce {
+  to {
+    opacity: 0.3;
+    transform: translateY(-10px);
+  }
+}
+
+#loading {
+  display: none;
+  margin: 10px;
+  text-align: center;
+}
+
+#loading span {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin: 0 2px;
+  background-color: #007bff;
+  border-radius: 50%;
+  animation: bounce 0.6s infinite alternate;
+}
+
+#loading span:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+#loading span:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes plantWave {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(3deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}

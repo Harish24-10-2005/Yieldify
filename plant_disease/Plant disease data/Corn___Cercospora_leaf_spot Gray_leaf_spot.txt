@@ -1,0 +1,75 @@
+Grey leaf spot (GLS) is a foliar fungal disease that affects maize, also known as corn. GLS is considered one of the most significant yield-limiting diseases of corn worldwide.[1] There are two fungal pathogens that cause GLS: Cercospora zeae-maydis and Cercospora zeina.[2][3][4] Symptoms seen on corn include leaf lesions, discoloration (chlorosis), and foliar blight. Distinct symptoms of GLS are rectangular, brown to gray necrotic lesions that run parallel to the leaf, spanning the spaces between the secondary leaf veins.[1] The fungus survives in the debris of topsoil and infects healthy crops via asexual spores called conidia. Environmental conditions that best suit infection and growth include moist, humid, and warm climates.[5][3][4] Poor airflow, low sunlight, overcrowding, improper soil nutrient and irrigation management, and poor soil drainage can all contribute to the propagation of the disease.[5] Management techniques include crop resistance, crop rotation, residue management, use of fungicides, and weed control. The purpose of disease management is to prevent the amount of secondary disease cycles as well as to protect leaf area from damage prior to grain formation. Corn grey leaf spot is an important disease of corn production in the United States, economically significant throughout the Midwest and Mid-Atlantic regions. However, it is also prevalent in Africa, Central America, China, Europe, India, Mexico, the Philippines, northern South America, and Southeast Asia.[6] The teleomorph (sexual phase) of Cercospora zeae-maydis is assumed to be Mycosphaerella sp.[7]
+
+Host and symptoms
+
+Conidiophores of corn grey leaf spot
+Corn is the only species that can be affected by Cercospora zeae-maydis. There are two populations of Cercospora zeae-maydis, distinguished by molecular analysis, growth rate, geographic distribution, and cercosporin toxin production. Cercospora zeae-maydis differs from its cousin group Cercospora zeina sp. nov. in that it has a faster growth rate in artificial media, the ability to produce the toxin cercosporin, longer conidiophores, and broadly fusiform conidia.[8] Cercospora zeina sp. nov. affects corn in the Eastern Corn Belt and Mid-Atlantic States; Cercospora zeae-maydis is found in most corn producing areas of western Kentucky, Illinois, Indiana, Iowa, Wisconsin, Missouri, Ohio, and west Tennessee (Midwest). Both populations share the same symptoms and virulence, the ability of the fungus to invade the host.[9]
+
+Major outbreaks of grey leaf spot occur whenever favorable weather conditions are present (see § Environment below). The initial symptoms of grey leaf spot emerge as small, dark, moist spots that are encircled by a thin, yellow radiance (lesions formation). The tissue within the “spot" begins to die as spot size increases into longer, narrower leaf lesions. Although initially brownish and yellow, the characteristic grey color that follows is due to the production of grey fungal spores (conidia) on the lesion surface. These symptoms that are similar in shape, size and discoloration are also prevalent on the corn husks and leaf sheaths. Leaf sheath lesions are not surrounded by a yellow radiance, but rather a brown or dark purple radiance.[10] This dark brown or purple discoloration on leaf sheaths is also characteristic to northern corn leaf blight (Exserohilum turcicum), southern corn leaf blight (Bipolaris maydis), or northern corn leaf spot (Bipolaris zeicola). Corn grey leaf spot mature lesions are easily diagnosed and distinguishable from these other diseases. Mature corn grey leaf spot lesions have a brown, rectangular and vein-limited shape. Secondary and tertiary leaf veins limit the width of the lesion and sometimes individual lesions can combine to blight entire leaves.
+
+Pathogenesis
+One reason for the pathogenic success of Cercospora zeae-maydis is the production of a plant toxin called cercosporin. All members of the genus Cercospora produce this light-activated toxin during infection.[11] In the absence of light, cercosporin is inactive, but when light is present, the toxin is converted into its excited triplet state. Activated cercosporin reacts with oxygen molecules, generating active single oxygen radicals.[12] Oxygen radicals react with plant cell lipids, proteins, and nucleic acids, damaging and killing affected cells, and nutrients released during the cell rupture and death feed the Cercospora fungus.[11] A study of mutant Cercospora lacking the gene responsible for cercosporin production demonstrates that, though unnecessary for infection, cercosporin increases the virulence of Cercospora fungi.[13]
+
+Disease cycle
+
+Life cycle of corn grey leaf spot
+Cercospora zeae-maydis survives only as long as infected corn debris is present; however, it is a poor soil competitor. The debris on the soil surface is a cause for primary inoculation that infects the incoming corn crop for the next season. By late spring, conidia (asexual spores) are produced by Cercospora zeae-maydis in the debris through wind dispersal or rain. The conidia are disseminated and eventually infect new corn crop.[14] In order for the pathogen to actually infect the host, high relative humidity and moisture (dew) on the leaves are necessary for inoculation.[15][3][4] Primary inoculation occurs on lower regions of younger leaves, where conidia germinate across leaf surfaces and penetrate through stomata via a flattened hyphal organ, an appressorium. Cercospora zeae-maydis is atypical in that its conidia can grow and survive for days before penetration, unlike most spores that need to penetrate within hours to ensure survival. Once infection occurs, the conidia are produced in these lower leaf regions. Assuming favorable weather conditions (see § Environment below), these conidia serve as secondary inoculum for upper leaf regions, as well as husks and sheaths (where it can also overwinter and produce conidia the following season). Additionally, wind and heavy rains tend to disperse the conidia during many secondary cycles to other parts of the field causing more secondary cycles of infection. If conditions are unfavorable for inoculation, the pathogen undergoes a state of dormancy during the winter season and reactivates when humid conditions favorable to inoculation return the following season. The fungus overwinters as stromata (mixture of plant tissues and fungal mycelium) in leaf debris, which give rise to conidia causing primary inoculations the following spring and summer.[15]
+
+Environment
+Corn grey leaf spot is found by Crous et al. 2006 to flourish under extended periods of high relative humidity[3][4] (over two days) and free moisture on leaves due to fog, dew, or light rain. Additionally, heavy rains tend to assist in dispersal of the pathogen. Temperatures between 75 and 95 °F (24 and 35 °C) are also required. If the temperature drops below 75 °F (24 °C) during wet periods or lacks 12 hours of wetness, the extent of disease will be greatly diminished.[14] In the Midwest and Mid-Atlantic, these conditions are favorable for spore development during the spring and summer months. The infection cycle may take two to four weeks depending on the environment and susceptibility of the corn product used.[1]
+
+Management
+In order to best prevent and manage corn grey leaf spot, the overall approach is to reduce the rate of disease growth and expansion. This is done by limiting the amount of secondary disease cycles and protecting leaf area from damage until after corn grain formation. High risks for corn grey leaf spot are divided into eight factors, which require specific management strategies.
+
+High risk factors for grey leaf spot in corn:[16]
+
+Susceptible hybrid
+Continuous corn
+Late planting date
+Minimum tillage systems
+Field history of severe disease
+Early disease activity (before tasseling)
+Irrigation
+Favorable weather forecast for disease
+There are currently five different management strategies, some of which are more effective than others.
+
+Resistant varieties
+The most proficient and economical method to reduce yield losses from corn grey leaf spot is by introducing resistant plant varieties.[17][18] In places where leaf spot occurs, these crops can ultimately grow and still be resistant to the disease. Although the disease is not eliminated and resistant varieties show disease symptoms, at the end of the growing season, the disease is not as effective in reducing crop yield. SC 407 have been proven to be common corn variety that are resistant to grey leaf spot.[19] If grey leaf spot infection is high, this variety may require fungicide application to achieve full potential.[20] Susceptible varieties should not be planted in previously infected areas (see § High risk above).[21]
+
+Lennon et al., 2016 uses a near-isogenic line (NIL) to find Qgls8 .[22] Qgls8 is a quantitative trait locus (QTL) for GLS resistance originally from the teosinte Zea parviglumis, introgressed into B73.[22] The Qgls8 QTL is around 130kilobase in chromosome 8.[22]
+
+Crop rotation
+The amount of initial inoculum will be reduced when a crop other than corn is planted for ≥2 years in that given area; meanwhile proper tillage methods are carried out. Clean plowing and 1-year crop rotation in the absence of corn allows for greater reductions of the disease as well. Note that conventional tilling can reduce disease but can lead to greater soil erosion.[21]
+
+Residue management
+Burying the debris under the last year's crop will help in reducing the presence of Cercospora zeae-maydis, as the fungal-infected debris can only survive above the soil surface. Again this technique will aid in reducing the primary inoculum, but it will not completely eradicate the disease.[23]
+
+Fungicides
+Fungicides, if sprayed early in season before initial damage, can be effective in reducing disease.
+
+Currently there are 5 known fungicides that treat Corn grey leaf spot:[24]
+
+Planting date
+The impact of GLS is more severe if plants are affected early in their development. Early planting can help reduce yield losses by ensuring the crop is at a later stage of grain fill when conditions are typically favorable for GLS development.[1]
+
+Headline EC (active ingredient: pyraclostrobin)
+Quilt (active ingredient: azoxystrobin + propiconazole)
+Proline 480 SC (active ingredient: prothioconazole)
+Tilt 250 E, Bumper 418 EC (active ingredient: propiconazole)
+Headline EC
+Headline is to be applied at 400–600 millilitres per hectare (0.17–0.26 US qt/acre). For optimal disease control, begin applications prior to disease development (see §Disease cycle). This fungicide can only be applied a maximum of 2 applications/year. Ground and aerial application are both acceptable.[24]
+Quilt
+Quilt is to be applied at 0.75–1.0 litre per hectare (0.32–0.43 US qt/acre). Application of Quilt is to be made upon first appearance of disease, followed by a second application 14 days after, if environmental conditions are favorable for disease development (see §Disease cycle). Upon browning of corn sheaths, Quilt is not to be applied. This fungicide can only be applied a maximum 2 applications/yr. Ground and aerial application are both acceptable.[24]
+Proline 480 SC
+Proline 480 SC is to be applied at 420 millilitres per hectare (0.18 US qt/acre). This fungicide can only be applied a maximum 1 time/year. Only ground application is acceptable. A 24-hour re-entry time is required (minimum amount of time that must pass between the time a fungicide is applied to an area or crop and the time that people can go into that area without protective clothing and equipment).[24]
+Tilt 250 and Bumper 418 EC
+Tilt 250 is to be applied at 500 millilitres per hectare (0.21 US qt/acre). Bumper 418 EC is to be applied at 300 millilitres per hectare (0.13 US qt/acre). Both fungicides are to be applied when rust pustules first appear. If disease is prevalent after primary application, a second application 14 days later may be necessary. Two weeks later, a third application can be made under severe amount of disease. Ground and aerial application are both acceptable.[24]
+When spraying fungicides Quilt and Headline EC at 6 US fluid ounces per acre (440 mL/ha) at tassel stage using a tractor-mounted CO2 powered sprayer using 20 US gallons per acre (190 L/ha), average yield was seen to increase.[25] The use of fungicides can be both economically and environmentally costly and should only be applied on susceptible varieties and large-scale corn production. In order to prevent fungal resistance to fungicides, all fungicides are to be used alternatively, switching fungicides with different modes of action. Pyraclostrobin (Headline EC) and azoxystrobin are Quinone outside Inhibitor (QoI) fungicides, whereas propiconazole and prothioconazole are DeMethylation Inhibitors (DMI) fungicides.[24]
+
+Weed control
+By removing weeds, above ground airflow to the crop is increased, relative humidity is decreased, and it limits infection at the most susceptible times.[26]
+
+Importance
+Before 1970, corn grey leaf spot was not prevalent in the United States, however the disease spread during the mid part of the decade throughout low mountain regions of North Carolina, Kentucky, Tennessee, and Virginia. Today, the disease has expanded to Delaware, Illinois, Indiana, Iowa, Maryland, Missouri, Ohio, Pennsylvania and west Tennessee.
+
+Corn grey leaf spot can be an extremely devastating disease as potential yield losses range from 5 to 40 US bushels per acre (440 to 3,480 L/ha). At higher disease levels, even greater losses can result. When a corn plant's ability to store and produce carbohydrates (glucose) in the grain is diminished, yield losses take place. This occurs when Cercospera zeae-maydis infects foliar tissue and reduces the plant's ability to photosynthesize and produce byproducts of the process (ex. glucose)

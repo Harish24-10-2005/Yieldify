@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home Page</title>
+  <style>
+    .tamil, .english {
+      display: none;
+    }
+  </style>
+  <script>
+    function switchLanguage(lang) {
+      document.querySelectorAll('.english, .tamil').forEach(function(el) {
+        el.style.display = 'none';
+      });
+      document.querySelectorAll('.' + lang).forEach(function(el) {
+        el.style.display = 'block';
+      });
+    }
+
+    // Set default language to English on page load
+    document.addEventListener('DOMContentLoaded', function() {
+      switchLanguage('english');
+    });
+  </script>
+</head>
+<body>
+  <h1>
+    <span class="english">Welcome to the Community!</span>
+    <span class="tamil">சமூகத்திற்கு வரவேற்கிறோம்!</span>
+  </h1>
+  <p>
+    <span class="english">Click the link below to visit the user's community:</span>
+    <span class="tamil">பயனர் சமூகத்துக்குச் செல்ல கீழே உள்ள இணைப்பைக் கிளிக் செய்யவும்:</span>
+  </p>
+  <a href="https://yeildify.slack.com">
+    <span class="english">Go to Community</span>
+    <span class="tamil">சமூகத்திற்குச் செல்லவும்</span>
+  </a>
+  
+  <div>
+    <button onclick="switchLanguage('english')">English</button>
+    <button onclick="switchLanguage('tamil')">தமிழ்</button>
+  </div>
+</body>
+</html>

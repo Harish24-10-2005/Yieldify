@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pest Predictor and Q&A</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: url('C:/Users/HARISH/Documents/Project Agri/Yieldify/Yeildify-code/Yeildify-code/backgrouund/pexels-fabien-burgue-1052232-2100002.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            margin-top: 50px;
+            margin-bottom: 50px;
+            animation: fadeIn 1s ease-in-out;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #4CAF50;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 15px;
+            background-color: #f9f9f9;
+            animation: slideUp 1s ease-in-out;
+        }
+        .section h2 {
+            margin-top: 0;
+            color: #333;
+        }
+        .form-section input[type="file"] {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 100%;
+        }
+        .form-section button, .qa-section button, .pesticide-info-section button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            width: 100%;
+            font-size: 16px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .form-section button:hover, .qa-section button:hover, .pesticide-info-section button:hover {
+            background-color: #45a049;
+        }
+        .qa-section input[type="text"], .pesticide-info-section input[type="text"], .language-dropdown {
+            width: calc(100% - 22px);
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 2s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        @keyframes fadeIn {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+        @keyframes slideUp {
+            0% { transform: translateY(20px); opacity: 0; }
+            100% { transform: translateY(0); opacity: 1; }
+        }
+        .answers p, .pesticide-info-section p {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 10px 0;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .pesticide-info-section img {
+            max-width: 100%;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        .pesticide-info-section img:hover {
+            transform: scale(1.05);
+        }
+        .pesticide-info-section button#buy-button {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Pest Predictor and Q&A</h1>
+
+        <div class="section form-section">
+            <h2>PEST PREDICTION AND PREVENTION</h2>
+            <form id="upload-form" enctype="multipart/form-data" action="http://127.0.0.1:8002/pest_type/" method="post">
+                <input type="file" id="file-input" name="file" accept="image/*" required>
+                <button type="submit">Predict The Pest</button>
+            </form>
+        </div>
+
+        <div class="section result-section" id="result-section">
+            <h2>Predicted Pest</h2>
+            <div id="predicted-pest"></div>
+        </div>
+
+        <div class="section qa-section" id="qa-section">
+            <h2>Ask Questions</h2>
+            <select id="language-dropdown" class="language-dropdown">
+                <option value="en">English</option>
+                <option value="ta">Tamil</option>
+                <option value="es">Spanish</option>
+            </select>
+            <form id="question-form">
+                <input type="text" id="question-input" placeholder="Ask a question about the pest..." required>
+                <button type="submit">Submit</button>
+            </form>
+            <div class="answers" id="answers"></div>
+        </div>
+
+        <div class="section pesticide-info-section">
+            <h2>Find Suitable Pesticide</h2>
+            <input type="text" id="pest-input" placeholder="Enter pest name">
+            <button onclick="displayPesticide()">Show Pesticide</button>
+            <div id="pesticide-container" style="display:none;">
+                <h3 id="pesticide-name"></h3>
+                <img id="pesticide-image" src="" alt="Pesticide Image" onclick="redirectToBuy()">
+                <p id="pesticide-price"></p>
+                <button id="buy-button" onclick="redirectToBuy()">Buy Now</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('upload-form').addEventListener('submit', async (event) => {
+            event.preventDefault();
+            const fileInput = document.getElementById('file-input');
+            if (fileInput.files.length > 0) {
+                const formData = new FormData();
+                formData.append('file', fileInput.files[0]);
+                const resultSection = document.getElementById('result-section');
+                resultSection.innerHTML = '<h2>Predicted Pest</h2><div id="predicted-pest" class="loader"></div>';
+                try {
+                    const response = await fetch('http://127.0.0.1:8002/pest_type/', {
+                        method: 'POST',
+                        body: formData
+                    });
+                    if (!response.ok) {
+                        throw new Error(`Server error: ${response.status}`);
+                    }
+                    const result = await response.text();
+                    if (result.trim() === '' || result.includes('Error')) {
+                        throw new Error('Empty result or error message received.');
+                    }
+                    const cleanedResult = result.replace(/'metadata': {'source': 'search_results.txt'}/g, '');
+                    resultSection.innerHTML = `<h2>Predicted Pest</h2><div id="predicted-pest"><h3>Predicted Pest: ${cleanedResult}</h3></div>`;
+                } catch (error) {
+                    console.error('Error during pest prediction:', error);
+                    resultSection.innerHTML = `<h2>Predicted Pest</h2><div id="predicted-pest"><h3>Error predicting pest type. Please try again later.</h3></div>`;
+                }
+            }
+        });
+
+        document.getElementById('question-form').addEventListener('submit', async (event) => {
+            event.preventDefault();
+            const questionInput = document.getElementById('question-input');
+            const question = questionInput.value;
+            const languageDropdown = document.getElementById('language-dropdown');
+            const selectedLanguage = languageDropdown.value;
+            const requestData = {
+                queries: [question],
+                language: selectedLanguage
+            };
+            const answersDiv = document.getElementById('answers');
+            answersDiv.innerHTML = '<div class="loader"></div>';
+            try {
+                const response = await fetch('http://127.0.0.1:8002/query/', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(requestData)
+                });
+                if (!response.ok) {
+                    throw new Error(`Server error: ${response.status}`);
+                }
+                const result = await response.json();
+                answersDiv.innerHTML = ''; // Clear loader
+                result.answers.forEach(answer => {
+                    const p = document.createElement('p');
+                    p.textContent = answer;
+                    answersDiv.appendChild(p);
+                });
+            } catch (error) {
+                console.error('Error during query:', error);
+                answersDiv.innerHTML = '<h3>Error processing query.</h3>';
+            }
+        });
+
+        const pestToPesticide = {
+            "rice leaf roller": "Chlorantraniliprole",
+            "rice leaf caterpillar": "Emamectin Benzoate",
+            "paddy stem maggot": "Imidacloprid",
+            "asiatic rice borer": "Fipronil",
+            "yellow rice borer": "Triazophos",
+            "rice gall midge": "Carbofuran",
+            "Rice Stemfly": "Cypermethrin",
+            "brown plant hopper": "Buprofezin",
+            "white backed plant hopper": "Imidacloprid",
+            "small brown plant hopper": "Thiamethoxam",
+            "rice water weevil": "Lambda-cyhalothrin",
+            "rice leafhopper": "Carbaryl",
+            "grain spreader thrips": "Spinosad",
+            "rice shell pest": "Chlorpyrifos",
+            "grub": "Chlorantraniliprole",
+            "mole cricket": "Bifenthrin",
+            "wireworm": "Tefluthrin",
+            "white margined moth": "Chlorantraniliprole",
+            "black cutworm": "Lambda-cyhalothrin",
+            "large cutworm": "Permethrin",
+            "yellow cutworm": "Bacillus thuringiensis (Bt)",
+            "red spider": "Abamectin",
+            "corn borer": "Bt corn (Bacillus thuringiensis)",
+            "army worm": "Methomyl",
+            "aphids": "Imidacloprid",
+            "Potosiabre vitarsis": "Chlorpyrifos",
+            "peach borer": "Pheromone traps + Permethrin",
+            "english grain aphid": "Thiamethoxam",
+            "green bug": "Malathion",
+            "bird cherry-oataphid": "Pirimicarb",
+            "wheat blossom midge": "Lambda-cyhalothrin",
+            "penthaleus major": "Miticides (specific product based on local recommendations)",
+            "longlegged spider mite": "Abamectin",
+            "wheat phloeothrips": "Spinosad",
+            "wheat sawfly": "Lambda-cyhalothrin",
+            "cerodonta denticornis": "Chlorpyrifos",
+            "beet fly": "Cyromazine",
+            "flea beetle": "Carbaryl",
+            "cabbage army worm": "Bacillus thuringiensis (Bt)",
+            "beet army worm": "Spinosad",
+            "Beet spot flies": "Spinosad",
+            "meadow moth": "Lambda-cyhalothrin",
+            "beet weevil": "Chlorpyrifos",
+            "sericaorient alismots chulsky": "Chlorpyrifos",
+            "alfalfa weevil": "Lambda-cyhalothrin",
+            "flax budworm": "Spinosad",
+            "alfalfa plant bug": "Imidacloprid",
+            "tarnished plant bug": "Bifenthrin",
+            "Locustoidea": "Fipronil",
+            "lytta polita": "No specific pesticide recommended; mechanical control preferred",
+            "legume blister beetle": "Spinosad",
+            "blister beetle": "Carbaryl",
+            "therioaphis maculata Buckton": "Imidacloprid",
+            "odontothrips loti": "Spinosad",
+            "Thrips": "Spinosad",
+            "alfalfa seed chalcid": "No specific pesticide recommended; cultural control preferred",
+            "Pieris canidia": "Bt (Bacillus thuringiensis)",
+            "Apolygus lucorum": "Imidacloprid",
+            "Limacodidae": "Bt (Bacillus thuringiensis)",
+            "Viteus vitifoliae": "Imidacloprid",
+            "Colomerus vitis": "Sulfur",
+            "Brevipoalpus lewisi McGregor": "Abamectin",
+            "oides decempunctata": "Imidacloprid",
+            "Polyphagotars onemus latus": "Spinosad",
+            "Pseudococcus comstocki Kuwana": "Imidacloprid",
+            "parathrene regalis": "Imidacloprid",
+            "Ampelophaga": "Bt (Bacillus thuringiensis)",
+            "Lycorma delicatula": "Imidacloprid",
+            "Xylotrechus": "Permethrin",
+            "Cicadella viridis": "Imidacloprid",
+            "Miridae": "Bifenthrin",
+            "Trialeurodes vaporariorum": "Imidacloprid",
+            "Erythroneura apicalis": "Imidacloprid",
+            "Papilio xuthus": "Bt (Bacillus thuringiensis)",
+            "Panonchus citri McGregor": "Abamectin",
+            "Phyllocoptes oleiverus ashmead": "Sulfur",
+            "Icerya purchasi Maskell": "Imidacloprid",
+            "Unaspis yanonensis": "Imidacloprid",
+            "Ceroplastes rubens": "Imidacloprid",
+            "Chrysomphalus aonidum": "Imidacloprid",
+            "Parlatoria zizyphus Lucus": "Imidacloprid",
+            "Nipaecoccus vastalor": "Imidacloprid",
+            "Aleurocanthus spiniferus": "Imidacloprid",
+            "Tetradacus c Bactrocera minax": "Spinosad",
+            "Dacus dorsalis(Hendel)": "Spinosad",
+            "Bactrocera tsuneonis": "Spinosad",
+            "Prodenia litura": "Spinosad",
+            "Adristyrannus": "Bt (Bacillus thuringiensis)",
+            "Phyllocnistis citrella Stainton": "Imidacloprid",
+            "Toxoptera citricidus": "Imidacloprid",
+            "Toxoptera aurantii": "Imidacloprid",
+            "Aphis citricola Vander Goot": "Imidacloprid",
+            "Scirtothrips dorsalis Hood": "Spinosad",
+            "Dasineura sp": "Imidacloprid",
+            "Lawana imitata Melichar": "Imidacloprid",
+            "Salurnis marginella Guerr": "Imidacloprid",
+            "Deporaus marginatus Pascoe": "Imidacloprid",
+            "Chlumetia transversa": "Imidacloprid",
+            "Mango flat beak leafhopper": "Imidacloprid",
+            "Rhytidodera bowrinii white": "Imidacloprid",
+            "Sternochetus frigidus": "Imidacloprid",
+            "Cicadellidae": "Imidacloprid"
+        };
+
+        const pesticides = {
+            "Chlorantraniliprole": {
+                image: "pesticide/Chlorantraniliprole.jpg",
+                price: "₹500",
+                link: "https://www.amazon.in/s?k=Chlorantraniliproleinsecticide"
+            },
+            "Emamectin Benzoate": {
+                image: "pesticide/Emamectin Benzoate.jpg",
+                price: "₹450",
+                link: "https://www.amazon.in/s?k=Emamectin+Benzoateinsecticide"
+            },
+            "Imidacloprid": {
+                image: "pesticide/Imidacloprid.jpg",
+                price: "₹550",
+                link: "https://www.amazon.in/s?k=Imidaclopridinsecticide"
+            },
+            "Fipronil": {
+                image: "pesticide/Fipronil.jpg",
+                price: "₹600",
+                link: "https://www.amazon.in/s?k=Fipronilinsecticide"
+            },
+            "Triazophos": {
+                image: "pesticide/Triazophos.jpg",
+                price: "₹620",
+                link: "https://www.amazon.in/s?k=Triazophosinsecticide"
+            },
+            "Carbofuran": {
+                image: "pesticide/Carbofuran.jpg",
+                price: "₹600",
+                link: "https://www.amazon.in/s?k=Carbofuraninsecticide"
+            },
+            "Cypermethrin": {
+                image: "pesticide/Cypermethrin.jpg",
+                price: "₹500",
+                link: "https://www.amazon.in/s?k=Cypermethrininsecticide"
+            },
+            "Buprofezin": {
+                image: "pesticide/Buprofezin.jpg",
+                price: "₹450",
+                link: "https://www.amazon.in/s?k=Buprofezininsecticide"
+            },
+            "Thiamethoxam": {
+                image: "pesticide/Thiamethoxam.jpg",
+                price: "₹550",
+                link: "https://www.amazon.in/s?k=Thiamethoxaminsecticide"
+            },
+            "Lambda-cyhalothrin": {
+                image: "pesticide/Lambda-cyhalothrin.jpg",
+                price: "₹600",
+                link: "https://www.amazon.in/s?k=Lambda-cyhalothrininsecticide"
+            },
+            "Carbaryl": {
+                image: "pesticide/Carbaryl.jpg",
+                price: "₹620",
+                link: "https://www.amazon.in/s?k=carbarylinsecticide"
+            },
+            "Spinosad": {
+                image: "pesticide/Spinosad.jpg",
+                price: "₹600",
+                link: "https://www.amazon.in/s?k=Spinosadinsecticide"
+            },
+            "Chlorpyrifos": {
+                image: "pesticide/Chlorpyrifos.jpg",
+                price: "₹500",
+                link: "https://www.amazon.in/s?k=Chlorpyrifosinsecticide"
+            },
+            "Bifenthrin": {
+                image: "pesticide/Bifenthrin.jpg",
+                price: "₹450",
+                link: "https://www.amazon.in/s?k=Bifenthrininsecticide"
+            },
+            "Tefluthrin": {
+                image: "pesticide/Tefluthrin.jpg",
+                price: "₹550",
+                link: "https://www.amazon.in/s?k=Tefluthrininsecticide"
+            },
+            "Permethrin": {
+                image: "pesticide/Permethrin.jpg",
+                price: "₹600",
+                link: "https://www.amazon.in/s?k=Permethrininsecticide"
+            },
+            "Bacillus thuringiensis (Bt)": {
+                image: "pesticide/Bacillus thuringiensis (Bt).jpg",
+                price: "₹620",
+                link: "https://www.amazon.in/s?k=Bacillus+thuringiensis"
+            },
+            "Abamectin": {
+                image: "pesticide/Abamectin.jpg",
+                price: "₹600",
+                link: "https://www.amazon.in/s?k=Abamectin"
+            },
+            "Methomyl": {
+                image: "pesticide/Methomyl.jpg",
+                price: "₹500",
+                link: "https://www.amazon.in/s?k=Methomyl"
+            },
+            "Pirimicarb": {
+                image: "pesticide/Pirimicarb.jpg",
+                price: "₹450",
+                link: "https://www.amazon.in/s?k=Pirimicarb"
+            },
+            "Cyromazine": {
+                image: "pesticide/Cyromazine.jpg",
+                price: "₹550",
+                link: "https://www.amazon.in/s?k=Cyromazine"
+            },
+            "Malathion": {
+                image: "pesticide/Malathion.jpg",
+                price: "₹600",
+                link: "https://www.amazon.in/s?k=Malathion"
+            },
+            "Sulfur": {
+                image: "pesticide/Sulfur.jpg",
+                price: "₹620",
+                link: "https://www.amazon.in/s?k=Sulfur"
+            }
+        };
+
+        function displayPesticide() {
+            const input = document.getElementById('pest-input').value.toLowerCase();
+            const pesticideName = pestToPesticide[input];
+            if (pesticideName) {
+                const pesticide = pesticides[pesticideName];
+                if (pesticide) {
+                    document.getElementById('pesticide-name').innerText = pesticideName;
+                    document.getElementById('pesticide-image').src = pesticide.image;
+                    document.getElementById('pesticide-image').alt = pesticideName;
+                    document.getElementById('pesticide-price').innerText = `Price: ${pesticide.price}`;
+                    document.getElementById('pesticide-container').style.display = 'block';
+                } else {
+                    alert('Pesticide details not found');
+                    document.getElementById('pesticide-container').style.display = 'none';
+                }
+            } else {
+                alert('Pesticide not found');
+                document.getElementById('pesticide-container').style.display = 'none';
+            }
+        }
+
+        function redirectToBuy() {
+            const input = document.getElementById('pest-input').value.toLowerCase();
+            const pesticideName = pestToPesticide[input];
+            if (pesticideName) {
+                const pesticide = pesticides[pesticideName];
+                if (pesticide && pesticide.link) {
+                    window.location.href = pesticide.link;
+                }
+            }
+        }
+    </script>
+</body>
+</html>

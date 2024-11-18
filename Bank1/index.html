@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('backgrouund/bank.jpg');
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+        }
+
+        .search-bar {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .search-bar input[type="text"] {
+            padding: 10px;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .search-bar button {
+            padding: 10px;
+            margin-left: 10px;
+            border: none;
+            background-color: #1e90ff;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        #not-found-container {
+            display: none;
+            color: red;
+            text-align: center;
+            margin-top: 20px;
+            font-size: 20px;
+        }
+
+        /* Loan Box Styles */
+        .loan-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            justify-content: center;
+            max-width: 1200px;
+        }
+
+        .loan-box {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 280px;
+            text-align: left;
+            transition: transform 0.3s ease;
+            margin-bottom: 20px;
+        }
+
+        .loan-box:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .loan-box img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin: 0 auto 15px;
+            display: block;
+        }
+
+        .loan-box h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #333;
+            text-align: center;
+        }
+
+        .loan-box p {
+            color: #555;
+        }
+
+        .loan-box a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+
+        .loan-box a:hover {
+            text-decoration: underline;
+        }
+    </style>
+     <script src="script.js"></script>
+     <script type="text/javascript">
+       function googleTranslateElementInit() {
+           new google.translate.TranslateElement(
+               {pageLanguage: 'en'},
+               'google_translate_element'
+           );
+       } 
+ </script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</head>
+<body>
+    <div id="google_translate_element"></div> 
+    <div id="not-found-container">
+        <p>Bank or Scheme Not Found</p>
+    </div>
+    <div id="google_translate_element"></div> 
+    <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Search for loans...">
+        <button onclick="searchLoans()">Search</button>
+    </div>
+    <div class="loan-container" id="loan-container">
+        <!-- Loan Box 1 -->
+        <div class="loan-box">
+            <img src="image.png" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> State Bank of India</p>
+            <p><strong>Loan Scheme Name:</strong> Kisan Samriddhi Rin</p>
+            <p><strong>Interest Rate:</strong> 9.75%</p>
+            <p><strong>Loan Type:</strong> Crop Loan</p>
+            <p><strong>Eligibility Criteria:</strong> Must be a registered farmer.</p>
+            <p><strong>Website Link:</strong> <a href="https://sbi.co.in/web/agri-rural/agri-rural/agriculture-banking/kisan-samriddhi-rin" target="_blank">Visit Bank Website</a></p>
+        </div>
+        <!-- Loan Box 2 -->
+        <div class="loan-box">
+            <img src="indian bank2.jpg" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> Indian Bank of India</p>
+            <p><strong>Loan Scheme Name:</strong> 
+                Agricultural Jewel Loan Scheme</p>
+            <p><strong>Interest Rate:</strong> 10%</p>
+            <p><strong>Loan Type:</strong> Farmer`<s></s> Loan</p>
+            <p><strong>Eligibility Criteria:</strong> Must be a registered farmer.</p>
+            <p><strong>Website Link:</strong> <a href="https://www.indianbank.in/departments/agricultural-jewel-loan-scheme/" target="_blank">Visit Bank Website</a></p>
+        </div>
+        <!-- Loan Box 3 -->
+        <div class="loan-box">
+            <img src="hdfc2.png" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> HDFC Bank</p>
+            <p><strong>Loan Scheme Name:</strong> Agri Business Loan</p>
+            <p><strong>Interest Rate:</strong> 8.5%</p>
+            <p><strong>Loan Type:</strong> Business Loan</p>
+            <p><strong>Eligibility Criteria:</strong> 5 Years (min 3 years at the same location)</p>
+            <p><strong>Website Link:</strong> <a href="https://www.hdfcbank.com/sme/borrow/popular-loans/agri-business-credit" target="_blank">Visit Bank Website</a></p>
+        </div>
+        <!-- Loan Box 4 -->
+        <div class="loan-box">
+            <img src="axis2.jpg" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> Axis Bank</p>
+            <p><strong>Loan Scheme Name:</strong> Farmers Funding Loan</p>
+            <p><strong>Interest Rate:</strong> 7.0% - 8.0%</p>
+            <p><strong>Loan Type:</strong> Support loans</p>
+            <p><strong>Eligibility Criteria:</strong> Must be a small-scale farmer.</p>
+            <p><strong>Website Link:</strong> <a href="https://www.axisbank.com/agri-and-rural/loans/farmer-funding" target="_blank">Visit Bank Website</a></p>
+        </div>
+        <!-- Loan Box 5 -->
+        <div class="loan-box">
+            <img src="icici.jpg" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> ICICI Bank</p>
+            <p><strong>Loan Scheme Name:</strong> Agri and Rural Loans</p>
+            <p><strong>Interest Rate:</strong> 7.2%</p>
+            <p><strong>Loan Type:</strong> Rural & Agri Business</p>
+            <p><strong>Eligibility Criteria:</strong> Must practice sustainable farming.</p>
+            <p><strong>Website Link:</strong> <a href="https://www.icicibank.com/rural?ITM=nli_cms_loans_agri_and_rural_header_nav#" target="_blank">Visit Bank Website</a></p>
+        </div>
+        <!-- Loan Box 6 -->
+        <div class="loan-box">
+            <img src="pnb.png" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> Punjab National Bank</p>
+            <p><strong>Loan Scheme Name:</strong> Harvest Loan</p>
+            <p><strong>Interest Rate:</strong> 8.0%</p>
+            <p><strong>Loan Type:</strong> Seasonal Loan</p>
+            <p><strong>Eligibility Criteria:</strong> Must be engaged in seasonal farming.</p>
+            <p><strong>Website Link:</strong> <a href="https://www.pnbindia.in/agriculture-credit-schemes.html" target="_blank">Visit Bank Website</a></p>
+        </div>
+        <!-- Loan Box 7 -->
+        <div class="loan-box">
+            <img src="canara.jpg" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> Canara Bank</p>
+            <p><strong>Loan Scheme Name:</strong> Agriculture-And-Rural-Credit-Schemes</p>
+            <p><strong>Interest Rate:</strong> 9.5%</p>
+            <p><strong>Loan Type:</strong> Development Loan</p>
+            <p><strong>Eligibility Criteria:</strong> Must contribute to rural development.</p>
+            <p><strong>Website Link:</strong> <a href="https://canarabank.com/pages/Agriculture-And-Rural-Credit-Schemes" target="_blank">Visit Bank Website</a></p>
+        </div>
+        <!-- Loan Box 8 -->
+        <div class="loan-box">
+            <img src="bob.png" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> Bank of Baroda</p>
+            <p><strong>Loan Scheme Name:</strong> Baroda Kisan Tatkal Loan Scheme</p>
+            <p><strong>Interest Rate:</strong> 8%</p>
+            <p><strong>Loan Type:</strong> Agricultural Loan</p>
+            <p><strong>Eligibility Criteria:</strong> Individual Farmers/Joint borrowers who are existing BKCC holder of our bank for at least 2 years</p>
+            <p><strong>Website Link:</strong> <a href="https://www.bankofbaroda.in/business-banking/rural-and-agri/loans-and-advances/baroda-kisan-tatkal-loan-scheme" target="_blank">Visit Bank Website</a></p>
+        </div>
+        <!-- Loan Box 9 -->
+        <div class="loan-box">
+            <img src="union.png" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> Union Bank of India</p>
+            <p><strong>Loan Scheme Name:</strong> Farmer's Future Loan</p>
+            <p><strong>Interest Rate:</strong> 8.3% - 9.0%</p>
+            <p><strong>Loan Type:</strong> Future Investment Loan</p>
+            <p><strong>Eligibility Criteria:</strong> Must have a forward-looking farm plan.</p>
+            <p><strong>Website Link:</strong> <a href="https://www.unionbankofindia.co.in/english/agriculture-loan.aspx" target="_blank">Visit Bank Website</a></p>
+        </div>
+        <!-- Loan Box 10 -->
+        <div class="loan-box">
+            <img src="uco.png" alt="Bank Logo">
+            <h2>Loan Scheme Information</h2>
+            <p><strong>Bank Name:</strong> UCO Bank</p>
+            <p><strong>Loan Scheme Name:</strong> Agriculture Credit</p>
+            <p><strong>Interest Rate:</strong> 7.8%</p>
+            <p><strong>Loan Type:</strong> Multiple type of loans available</p>
+            <p><strong>Eligibility Criteria:</strong> Must be a registered farmer.</p>
+            <p><strong>Website Link:</strong> <a href="https://ucobank.com/agriculture-credit" target="_blank">Visit Bank Website</a></p>
+        </div>
+    </div>
+
+    <!-- JavaScript for Search Functionality -->
+    <script>
+        function searchLoans() {
+            // Get the search query
+            const query = document.getElementById('search-input').value.toLowerCase();
+    
+            // Get all loan boxes
+            const loanBoxes = document.querySelectorAll('.loan-box');
+            let hasMatch = false;
+    
+            // Loop through each loan box
+            loanBoxes.forEach(box => {
+                // Get the bank name and loan scheme name text
+                const bankName = box.querySelector('p:nth-of-type(1)').textContent.toLowerCase();
+                const loanSchemeName = box.querySelector('p:nth-of-type(2)').textContent.toLowerCase();
+    
+                // Check if the query is empty
+                if (query === "") {
+                    // Show all boxes if the query is empty
+                    box.style.display = '';
+                    hasMatch = true;
+                } else {
+                    // Check if the query matches the bank name or loan scheme name
+                    if (bankName.includes(query) || loanSchemeName.includes(query)) {
+                        // Show the box if it matches
+                        box.style.display = '';
+                        hasMatch = true;
+                    } else {
+                        // Hide the box if it doesn't match
+                        box.style.display = 'none';
+                    }
+                }
+            });
+    
+            // Show or hide the "not found" message
+            const notFoundContainer = document.getElementById('not-found-container');
+            if (hasMatch) {
+                notFoundContainer.style.display = 'none';
+            } else {
+                notFoundContainer.style.display = 'block';
+            }
+        }
+    
+        // Add event listener to the search input to handle real-time searching
+        document.getElementById('search-input').addEventListener('input', searchLoans);
+    </script>
+    
+
+    
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mandi Prices</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+      <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'},
+                'google_translate_element'
+            );
+        } 
+  </script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</head>
+<body>
+    <img id="logo" src="images\logo (2).png" alt="Logo">
+    <div id="google_translate_element"></div> 
+    <h1>Current Daily Price of Various Commodities from Various Markets (Mandi)</h1>
+    <div id="filters">
+        <label for="state">State:</label>
+        <select id="state">
+            <option value="">All</option>
+        </select>
+        <label for="district">District:</label>
+        <select id="district">
+            <option value="">All</option>
+        </select>
+        <label for="commodity">Commodity:</label>
+        <select id="commodity">
+            <option value="">All</option>
+        </select>
+        <button onclick="filterData()">Filter</button>
+    </div>
+    <table id="data-table">
+        <thead>
+            <tr>
+                <th>State</th>
+                <th>District</th>
+                <th>Market</th>
+                <th>Commodity</th>
+                <th>Variety</th>
+                <th>Grade</th>
+                <th>Arrival Date</th>
+                <th>Min Price (Price/Kg)</th>
+                <th>Max Price (Price/Kg)</th>
+                <th>Modal Price (Price/Kg)</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <script src="script.js"></script>
+</body>
+</html>

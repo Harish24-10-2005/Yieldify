@@ -1,0 +1,313 @@
+[
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.transforms",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "T5ForConditionalGeneration",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Translator",
+        "importPath": "googletrans",
+        "description": "googletrans",
+        "isExtraImport": true,
+        "detail": "googletrans",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "crop_pred",
+        "kind": 6,
+        "importPath": "crop",
+        "description": "crop",
+        "peekOfCode": "class crop_pred:\n    def fahrenheit_to_celsius(self, fahrenheit):\n        celsius = fahrenheit - 273.15\n        return celsius\n    def crop_pr(self, N, P, K, pH, city):\n        numerical_representations = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]\n        class_labels = ['apple', 'banana', 'blackgram', 'chickpea', 'coconut', 'coffee', 'cotton', \n                        'grapes', 'jute', 'kidneybeans', 'lentil', 'maize', 'mango', 'mothbeans', \n                        'mungbean', 'muskmelon', 'orange', 'papaya', 'pigeonpeas', 'pomegranate', \n                        'rice', 'watermelon']",
+        "detail": "crop",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRequest",
+        "kind": 6,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "class QueryRequest(BaseModel):\n    queries: List[str]\n    language: str\n    @validator('language')\n    def validate_language(cls, value):\n        if len(value) != 2:\n            raise ValueError(\"Language code must be exactly two characters long\")\n        return value.lower()\n@app.post(\"/predict/\")\nasync def predict_plant_disease(file: UploadFile = File(...)):",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "search_pesticides",
+        "kind": 2,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "def search_pesticides(predicted_class):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",\n            \"format\": \"json\",\n            \"list\": \"search\",\n            \"srsearch\": f\"{predicted_class} disease treatment\",\n            \"srprop\": \"snippet\",\n            \"srlimit\": \"5\"",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "display_search_results",
+        "kind": 2,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "def display_search_results(search_results):\n    if not search_results:\n        return \"<p>No search results found.</p>\"\n    result_text = \"<h3>About and Cure steps:</h3>\"\n    for result in search_results:\n        title = result['title']\n        snippet = result['snippet'].replace('<span class=\"searchmatch\">', '').replace('</span>', '')\n        result_text += f\"<p><strong>{title}:</strong><br>{snippet}</p>\"\n    return result_text\nclass QueryRequest(BaseModel):",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"], \n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nmodel_path = 'cnn_model.pth'\ncheckpoint = torch.load(model_path, map_location=torch.device('cpu'))",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "model_path",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "model_path = 'cnn_model.pth'\ncheckpoint = torch.load(model_path, map_location=torch.device('cpu'))\ncnn_model = models.densenet121(pretrained=True)\ncnn_model.classifier = nn.Linear(cnn_model.classifier.in_features, len(checkpoint['class_to_index']))\ncnn_model.load_state_dict(checkpoint['model_state_dict'])\ncnn_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "checkpoint = torch.load(model_path, map_location=torch.device('cpu'))\ncnn_model = models.densenet121(pretrained=True)\ncnn_model.classifier = nn.Linear(cnn_model.classifier.in_features, len(checkpoint['class_to_index']))\ncnn_model.load_state_dict(checkpoint['model_state_dict'])\ncnn_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "cnn_model",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "cnn_model = models.densenet121(pretrained=True)\ncnn_model.classifier = nn.Linear(cnn_model.classifier.in_features, len(checkpoint['class_to_index']))\ncnn_model.load_state_dict(checkpoint['model_state_dict'])\ncnn_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])\nlabels = [",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "cnn_model.classifier",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "cnn_model.classifier = nn.Linear(cnn_model.classifier.in_features, len(checkpoint['class_to_index']))\ncnn_model.load_state_dict(checkpoint['model_state_dict'])\ncnn_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])\nlabels = [\n    \"Apple___Apple_scab\", \"Apple___Black_rot\", \"Apple___Cedar_apple_rust\", \"Apple___healthy\",",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "transform",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "transform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])\nlabels = [\n    \"Apple___Apple_scab\", \"Apple___Black_rot\", \"Apple___Cedar_apple_rust\", \"Apple___healthy\",\n    \"Blueberry___healthy\", \"Cherry_(including_sour)___Powdery_mildew\", \"Cherry_(including_sour)___healthy\",\n    \"Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\", \"Corn_(maize)___Common_rust_\",\n    \"Corn_(maize)___Northern_Leaf_Blight\", \"Corn_(maize)___healthy\", \"Grape___Black_rot\",",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "labels = [\n    \"Apple___Apple_scab\", \"Apple___Black_rot\", \"Apple___Cedar_apple_rust\", \"Apple___healthy\",\n    \"Blueberry___healthy\", \"Cherry_(including_sour)___Powdery_mildew\", \"Cherry_(including_sour)___healthy\",\n    \"Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\", \"Corn_(maize)___Common_rust_\",\n    \"Corn_(maize)___Northern_Leaf_Blight\", \"Corn_(maize)___healthy\", \"Grape___Black_rot\",\n    \"Grape___Esca_(Black_Measles)\", \"Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\", \"Grape___healthy\",\n    \"Orange___Haunglongbing_(Citrus_greening)\", \"Peach___Bacterial_spot\", \"Peach___healthy\",\n    \"Pepper,_bell___Bacterial_spot\", \"Pepper,_bell___healthy\", \"Potato___Early_blight\", \"Potato___Late_blight\",\n    \"Potato___healthy\", \"Raspberry___healthy\", \"Soybean___healthy\", \"Squash___Powdery_mildew\",\n    \"Strawberry___Leaf_scorch\", \"Strawberry___healthy\", \"Tomato___Bacterial_spot\", \"Tomato___Early_blight\",",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "model = T5ForConditionalGeneration.from_pretrained(\"t5-base\")\ntokenizer = T5Tokenizer.from_pretrained(\"t5-base\")\nplant = None\ndef search_pesticides(predicted_class):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",\n            \"format\": \"json\",\n            \"list\": \"search\",",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "tokenizer",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "tokenizer = T5Tokenizer.from_pretrained(\"t5-base\")\nplant = None\ndef search_pesticides(predicted_class):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",\n            \"format\": \"json\",\n            \"list\": \"search\",\n            \"srsearch\": f\"{predicted_class} disease treatment\",",
+        "detail": "plant",
+        "documentation": {}
+    },
+    {
+        "label": "plant",
+        "kind": 5,
+        "importPath": "plant",
+        "description": "plant",
+        "peekOfCode": "plant = None\ndef search_pesticides(predicted_class):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",\n            \"format\": \"json\",\n            \"list\": \"search\",\n            \"srsearch\": f\"{predicted_class} disease treatment\",\n            \"srprop\": \"snippet\",",
+        "detail": "plant",
+        "documentation": {}
+    }
+]

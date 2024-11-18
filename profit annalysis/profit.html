@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Profitability Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: url('backgrouund/pexels-zenzazione-1211772.jpg') no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #fff;
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.271); /* Slightly transparent white background */
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+            padding: 20px 30px;
+            max-width: 500px;
+            width: 100%;
+            text-align: center;
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        h1 {
+            color: #0c6c0c;
+            margin-bottom: 20px;
+            animation: slideIn 1s ease-in-out;
+        }
+
+        @keyframes slideIn {
+            from { transform: translateY(-50px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            margin: 10px 0 5px;
+            font-weight: bold;
+            color: #0c6c0c;
+        }
+
+        input[type="text"],
+        input[type="date"] {
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            font-size: 16px;
+            outline: none;
+            transition: border-color 0.3s ease-in-out;
+        }
+
+        input[type="text"]:focus,
+        input[type="date"]:focus {
+            border-color: #246c22;
+        }
+
+        input[type="submit"] {
+            background-color: #137811;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0c6c0c;
+        }
+
+        .spinner {
+            display: none;
+            margin: 10px auto;
+            width: 40px;
+            height: 40px;
+            border: 4px solid rgba(0, 0, 0, .1);
+            border-left-color: #22a6b3;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            animation: fadeInResult 1s ease-in-out;
+        }
+
+        @keyframes fadeInResult {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        /* Animation for high profit */
+        .high-profit {
+            animation: highProfitAnimation 1s ease-out;
+            color: #28a745;
+        }
+
+        @keyframes highProfitAnimation {
+            0% { transform: scale(0.9); opacity: 0; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+        /* Animation for medium profit */
+        .medium-profit {
+            animation: mediumProfitAnimation 1s ease-out;
+            color: #ffc107;
+        }
+
+        @keyframes mediumProfitAnimation {
+            0% { transform: scale(0.9); opacity: 0; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+        /* Animation for less profit */
+        .less-profit {
+            animation: lessProfitAnimation 1s ease-out;
+            color: #fd7e14;
+        }
+
+        @keyframes lessProfitAnimation {
+            0% { transform: scale(0.9); opacity: 0; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+        /* Animation for no profit */
+        .no-profit {
+            animation: noProfitAnimation 1s ease-out;
+            color: #dc3545;
+        }
+
+        @keyframes noProfitAnimation {
+            0% { transform: scale(0.9); opacity: 0; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+        #logo {
+            position: absolute;
+            top: 20px; /* Adjust as needed */
+            left: 20px; /* Adjust as needed */
+            width: 100px;
+            height: 100px;
+            border-radius: 50%; /* Make the image round */
+            border: 2px solid #fff; /* Optional: Add a border */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    
+    <img id="logo" src="images\logo (2).png" alt="Logo">
+    <div class="container">
+        <h1>Crop Profitability Checker</h1>
+        <form id="profitabilityForm">
+            <label for="crop">Crop Name:</label>
+            <input type="text" id="crop" name="crop" required>
+            <label for="seeding_date">Seeding Date:</label>
+            <input type="date" id="seeding_date" name="seeding_date" required>
+            <input type="submit" value="Check Profitability">
+        </form>
+        <div class="spinner" id="spinner"></div>
+        <p id="result"></p>
+    </div>
+
+    <script>
+        document.getElementById('profitabilityForm').addEventListener('submit', async function(event) {
+            event.preventDefault();
+            const crop = document.getElementById('crop').value;
+            const seeding_date = document.getElementById('seeding_date').value;
+
+            document.getElementById('spinner').style.display = 'block';
+            document.getElementById('result').innerText = '';
+
+            try {
+                const response = await fetch('http://127.0.0.1:8007/profitability', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ crop, seeding_date }),
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const result = await response.text();
+                const resultElement = document.getElementById('result');
+                resultElement.innerText = result;
+
+                resultElement.classList.remove('high-profit', 'medium-profit', 'less-profit', 'no-profit');
+                if (result.includes('high profit')) {
+                    resultElement.classList.add('high-profit');
+                } else if (result.includes('medium profit')) {
+                    resultElement.classList.add('medium-profit');
+                } else if (result.includes('less profit')) {
+                    resultElement.classList.add('less-profit');
+                } else if (result.includes('doesn\'t yield profit')) {
+                    resultElement.classList.add('no-profit');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('result').innerText = `An error occurred: ${error.message}. Please try again.`;
+            } finally {
+                document.getElementById('spinner').style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html>

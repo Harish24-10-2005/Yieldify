@@ -1,0 +1,1279 @@
+Esca (Black Measles) and Brown Wood-Streaking:
+Two Old and Elusive Diseases of Grapevines
+“Esca” disease of grapevine has long
+been known wherever grapes are grown.
+The disease may be as old as vine cultivation itself. References to esca-like symptoms are found in several ancient Greek
+and Latin works. Greater descriptive accuracy is found in medieval works such as
+the Kitab al-Felahah by Ibn al-Awam, a
+Spanish Muslim who lived in Seville at the
+end of the twelfth century, and the Opus
+Ruralium Commodorum by Pietro de’
+Crescenzi, born around 1233 in Bologna.
+Esca is a Latin word meaning food, aliment, or, figuratively, bait. The name indirectly refers to the fruiting bodies of certain wood-rotting fungi. For example,
+Fomes, which in Latin means “tinder,” is
+the name of a genus of basidiomycetes
+once used to make a dry, easily ignited
+material suitable to start fires when using
+flints. Wood decayed by these fungi, including rotted grapevine wood, burned
+slowly and was used to keep fires aglow
+without a flame.
+Esca is a complex disease that comprises
+an array of symptoms, some of which have
+locally given their own names to the disease. For example in California, the dark,
+tiny spotting of the grapes is called “black
+measles.” In many grapevine-growing
+areas of the world, the sudden wilting of
+esca-affected vines in summer has earned
+this form of the disease the name
+“apoplexy.”
+Research on the etiology of esca, which
+started at the end of the nineteenth century
+in France, can be divided into three periods. The first period began in 1898 with
+Ravaz (61) and ended in 1926 with Viala
+(79). The overall conclusion of this period
+was that two basidiomycetous fungi,
+Stereum hirsutum (Willd.) Pers. and
+Phellinus (Fomes) igniarius (L.:Fr.) Quél.,
+were the causal agents, although this could
+not be shown by pathogenicity tests. However, in Italy in 1912, Petri (58) successfully reproduced some early internal esca
+symptoms with two undetermined species
+of Cephalosporium and one of Acremonium that had also been associated with the
+disease. The second period in esca research
+started in California in 1957 with Hewitt
+(35) and lasted until 1959, when Chiarappa
+(9) detected the relationship between internal wood decay and black measles. He also
+showed how a Cephalosporium sp. reproduced in vivo some of the symptoms observed in the wood of diseased vines, and
+how P. igniarius caused wood decay in
+vitro. The third period, initiated by
+Larignon and Dubos in 1987 (39) and still
+underway, is directed at understanding the
+role of the mitosporic (asexually reproducing) fungi that act alone or together
+with the basidiomycetes to cause esca and
+related diseases.
+In the 1990s, studies on esca and its etiology have intensified. This came after a
+dramatic upsurge in the disease, especially
+in Germany, Italy, and Greece, where the
+arsenites, traditionally used to keep esca
+under control, have been banned and were
+replaced by less effective fungicides. However, even in France, Portugal, and Spain,
+where restricted use of sodium arsenite is
+still permitted, esca is widespread in all
+vine-growing regions.
+This paper refers mostly to conditions in
+the Mediterranean area and focuses on the
+progress achieved in our understanding of
+esca over the last few years. Reference is
+also made to a decline of young grapevines
+caused by some of the same mitosporic
+fungi as those commonly associated with
+esca in adult vines. Finally, the relations
+between esca and related syndromes or
+diseases are also discussed.
+Syndromes Involved
+Esca is a complex disease whose symptoms arise from structural and physiological changes that cannot be reduced to a
+simple scheme of cause and effect. Consequently, symptoms that look alike may
+have different causes.
+Apart from the occasional delayed
+sprouting of esca-affected vines in the
+spring, external symptoms in the Northern
+Hemisphere develop on the crown between
+June and September, either through the
+entire vine or on single branches. The development of esca syndrome can be of two
+types, chronic or acute.
+Chronic esca syndrome. Chronic esca
+comprises symptoms inside the trunk and
+larger branches, on the shoots and smaller
+branches, on the leaves, and on the berries.
+Symptoms inside trunk and main
+branches. On adult plants (8 to 10 years
+and older), the most common internal
+symptom is white rot, which gradually
+changes the hard wood to a soft, friable,
+spongy mass. Rotted tissues appear creamy
+yellow or whitish, and in cross section are
+often bordered by a thick black or dark
+brown line separating rotted from nondecayed wood. The decay usually starts from
+a large pruning wound on the trunk extending into the woody tissue and either
+remains restricted to the older part of the
+wood or spreads along a sector in the
+woody cylinder (Figs. 1 and 2). Sometimes
+the rot approaches or reaches the surface,
+causing cracks along the trunk (this is
+called “mal dello spacco”—cracking disease—in Italy; Fig. 3). The decay usually
+extends downward and upward along the
+trunk, decreasing in size away from its
+point of origin, but it seldom develops
+Dr. Mugnai’s address is: Istituto di Patologia e
+Zoologia forestale e agraria, Università, P. le delle
+Cascine, 28, 50144 Firenze, Italy; 39-55-3288377,
+Fax: 39-55-354786, E-mail: laura@ipaf.fi.cnr.it
+Publication no. D-1999-0223-01F
+© 1999 The American Phytopathological Society
+Plant Disease / May 1999 405
+below the graft union and never affects the
+roots. However, old, ungrafted mother
+vines of American or Euro-American hybrids may show the same internal symptoms as grafted European cultivars.
+Various other types of wood deterioration become visible together with or even
+preceding white rot: (i) small, dark brown
+or black spots in cross section appear as
+deep brown or black streaks or columns in
+longitudinal section. In cross section, the
+spots are sparsely distributed or arranged
+in groups around an annual growth ring or
+in the woody tissues close to the pith (Figs.
+1A and B, 2); (ii) pink-brown or dark redbrown areas often develop from black
+spots (Figs. 1B, 2), mainly in the core of
+the trunk or on the margin of decayed or
+necrotic tissues, separating such tissues
+from apparently healthy tissue; and (iii)
+brown areas of varying shade and texture
+are intermingled with the above types of
+discoloration, often in sectors connected
+with large wounds (Fig. 2).
+On plants younger than 8 to 10 years,
+external leaf and berry symptoms of esca
+(see below) are often associated with a
+limited wood discoloration inside the
+trunk. However, white rot in the trunk of
+young grapevines with leaf symptoms of
+esca is observed very rarely.
+The various types of wood discoloration
+and decay are the result of a number of
+structural and physiological changes: (i)
+physical and chemical changes caused by
+the introduction of air and water into
+wounds (1) and the host reactions to such
+wounding (e.g., degradation, oxidation,
+and darkening of tissue components); (ii)
+changes caused by cellulolytic and ligninolytic enzymes produced by the fungi
+associated with esca (10,54); (iii) tylosis
+induced by growth-regulating substances,
+and vascular occlusion due to gels and
+gums secreted by the diseased xylem parenchyma cells, or even to high-molecularweight compounds produced by the pathogen(s); and (iv) necrosis of xylem parenchyma cells as the result of diffusion of the
+pathogen’s toxins (76), host reaction products (e.g., phytoalexins), or both.
+Symptoms on leaves. Symptoms on
+leaves consist of light green or chlorotic,
+rounded or irregular spots between the
+veins or along the leaf margins that usually
+spread outward to the distal parts of the
+shoots (Fig. 4). The spots, initially small
+and scattered over the lamina, gradually
+expand and coalesce, become partly necrotic, and ultimately leave only a narrow
+strip of unaffected green tissue along the
+main veins (Fig. 4A). As the chlorotic
+tissue turns yellow-brown or red-brown
+(Fig. 4B and C) (or, in the case of certain
+cultivars, develops rust-colored necrotic
+areas with dark red margins), the diseased
+leaves assume a “tiger-stripes” pattern
+(Fig. 4D). Sometimes the necrotic areas of
+the lamina dry out and become detached,
+leaving irregular leaf margins. Other
+symptoms, such as clearing, puckering,
+glistening, and distortion of the leaf lamina
+(9), are less common.
+The appearance of wilt symptoms in the
+crown could be explained in terms of xylem dysfunction. However, for various
+reasons, it seems unlikely that leaf necrosis
+and wilting of shoots and fruits are due to
+water stress caused by vascular occlusion
+(78). Vascular occlusion, where it exists,
+affects only a part of the trunk, mainly the
+nonfunctional woody rings. The functional
+wood is usually not discolored, but even if
+it were, the xylem vessels of woody dicotyledons form an integrated system that
+can compensate for any change in water
+potential that might occur as a result. In
+any case, only two or three annual increments of functional xylem are needed to
+sustain vigorous shoot growth and abundant grape production (59).
+It seems more likely that the foliar
+symptoms of esca are mainly caused by
+substances that originate in the discolored
+woody tissues of the trunk and branches
+and are then translocated to the leaves in
+the transpiration stream. These substances
+can be reaction products of the wood,
+phytotoxic metabolites excreted by esca
+Fig. 1. Cross sections through the trunk of a 25-year-old grape cv. Sangiovese vine affected by esca. The trunk was cut into 3- to 5-
+cm-thick sections, which on the photograph show wood symptoms in a clockwise direction, starting from the trunk base up to the
+portion where two large pruning wounds were made. The lowest trunk sections (A–C) show black spotting, brown-red wood, and
+initial symptoms of white rot (slightly yellow in the picture) starting from the pith. The rotted wood gradually extends toward the
+large wounds (D). In the upper trunk sections (E and F), yellowish, soft, and spongy rotted wood (white rot) predominate, being
+bordered by a thick black line that in turn is surrounded by a marginal band of brownish red wood.
+406 Plant Disease / Vol. 83 No. 5
+fungi, or a combination of both. In a recent
+study, foliar symptoms similar to those
+caused by esca were produced when culture filtrates (or their fractions) of three
+fungi associated with the disease (see below) were absorbed by detached grapevine
+leaves (Fig. 5). Polysaccharides (pullulans)
+were purified from the cultures of two of
+the above fungi (Phaeoacremonium) and
+were shown to be nonselectively toxic to
+cuttings of grapevine and other plants (76).
+Symptoms on shoots and branches.
+Symptoms can start in spring with delayed
+and weak growth and end in autumn with
+reduced lignification of the canes. In late
+spring and summer, an irreversible wilt of
+some shoots or of an entire branch may
+occur.
+Symptoms on berries and clusters. Spotting of berries, sometimes without accompanying foliar symptoms, is common in
+California and southern Italy and has also
+been reported from France (Alsace) on
+adult as well as young vines, especially
+white grape cultivars (9,19,31,33). Minute
+dark brown, violet, or purple spots develop
+more or less abundantly on the skin of the
+berry, hence the name “black measles”
+given to this condition in California (Fig.
+6A). Masses of tiny spots are irregularly
+scattered, especially toward the distal end
+of the berry, although they are sometimes
+distributed in longitudinal bands (Fig. 6B).
+More rarely, the spots cover almost the
+whole berry, which then turns brown or
+violet-gray.
+Spots are due to browning and necrosis
+of groups of epidermal and hypodermal
+cells near the terminal part of a xylem
+vessel and do not extend to the underlying
+tissues (32). Within a grape cluster, the
+severity of spotting may differ from berry
+to berry. Even with only light spotting,
+table grapes are not easily sold on the marFig. 2. Pattern of wood colonization of a grapevine trunk by esca fungi (left, transverse sections; right, median longitudinal section). The occurrence (percent isolation)
+of three fungal species (Fomitiporia punctata [Fp], Phaeoacremonium chlamydosporum [Pch], and P. aleophilum [Pal]), as found in a survey in central Italy, is reported for each trunk portion. The white rot fungus, F. punctata, prevails in the completely decayed wood and decreases toward the healthy wood as P. chlamydosporum
+and P. aleophilum become dominant. These two fungi are mainly found in the black
+streaks and brown-red wood, both in the wood portions around the pith and at the
+margin of the decayed wood tissues. Green arrows, pruning wounds; BN, brown necrosis; BRW, brown-red wood; AP, altered pith; BS, brown to black streaks, appearing
+as black spots in cross section; DP, decayed pith; BL, black line bordering the decayed wood; DW, completely decayed wood (white rot).
+Fig. 3. Cracking of a grapevine trunk in
+connection with a sector of decayed
+wood.
+Plant Disease / May 1999 407
+ket. Berries with heavy spotting often show
+skin cracks and even longitudinal or transverse splits (Fig. 6B). Such fruits shrivel
+and dry up or become prey to soft rotting
+fungi or bacteria.
+Sometimes clusters on diseased vines
+show late ripening with low sugar content
+and altered berry flavor, or a slow wilt of
+the distal parts, whose berries lose turgor
+and fail to ripen.
+As with foliar symptoms, fruit symptoms do not necessarily appear on the same
+diseased plant every year. Symptoms can
+affect only some berries in a single cluster,
+all clusters on a branch, or a number of
+branches.
+The dark spotting of grape berries could
+result from diffusion through the vascular
+Fig. 5. Effect of the absorption for a few hours of 15-day-old Phaeoacremonium chlamydosporum culture filtrate diluted 1:10 (left)
+and of 5-day-old Fomitiporia punctata culture filtrate diluted 1:1 (right) on detached grape leaves. (photos courtesy F. Lops)
+Fig. 4. Foliar symptoms of esca first appear as chlorotic spots that subsequently coalesce, turning dark red in some red cultivars
+like Cabernet (A), and finally becoming necrotic. Dead tissues appear dark brown to red-brown, depending on the cultivar (B and
+C). Symptoms often extend to the interveinal areas of the foliar blade, leaving a narrow strip of unaffected tissue along the main
+veins (D), thus giving the leaves a characteristic tiger-stripe pattern. (photos courtesy G. Minervini, [A], and S. Frisullo [D])
+408 Plant Disease / Vol. 83 No. 5
+system of enzymes that oxidize or polymerize phenolic substances in the epicarp,
+in conditions of high irradiation, but more
+probably it is caused by toxins translocated
+to the fruits by the same route.
+Acute esca syndrome. “Vine apoplexy”
+appears suddenly in the middle of summer
+as a rapid basipetal wilt of entire vines,
+including the clusters, rarely of single
+branches (Fig. 7). Green, healthy-looking
+leaves turn pale green, then gray-green,
+and quickly wither, drying up completely
+in a few days.
+Apoplexy is thought to be favored by
+hot summers, in particular, when rainfall is
+followed by dry, hot weather. It may be
+connected with a rapid rise in the concentration and activity of toxic metabolites in
+the crown when the rate of transpiration is
+high.
+Related Syndromes
+Wood discoloration with brown or black
+streaks (brown wood-streaking) is a common internal symptom of esca-infected
+grapevines, but it is also similar to the
+wood streaking of declining vines reported
+by Petri in southern Italy (Sicily) at the
+beginning of the twentieth century (58).
+Externally, these plants showed a general
+decline and stunted growth, a condition
+often confused with viral diseases
+(arricciamento or court-noué), whose cause
+was unknown at the time. The internal
+symptoms were described by Petri as
+“gommosi del legno da ferita” (woundrelated wood gummosis) and “venature
+brune del legno” (brown to black wood
+streaking). These longitudinal streaks or
+columns of discolored wood are similar to
+a condition called bacterial gummosis by
+Prillieux and Delacroix (60). They originate in pruning wounds or at the graft union and appear as minute black or dark
+brown spots in cross section. Sometimes
+the streaks are even formed by isolated
+xylem vessels and the related parenchyma
+cells. Brown or black streaking, with the
+presence of gummy masses in the xylem
+vessels, can extend so deeply into the trunk
+as to reach the roots.
+According to Petri, brown wood-streaking predisposed the vine plant to wood
+decay or even represented the first signs of
+esca.
+Syndromes in many respects similar to
+the syndrome observed by Petri in Italy
+have been reported from other parts of the
+world, particularly from young vineyards
+(see below). Affected vines with such a
+syndrome sometimes show a sudden collapse, but more frequently a progressive
+decline, slow dieback, and stunted growth,
+with various foliar symptoms (chlorosis,
+marginal necrosis, wilting). In every case,
+they show blackish or brown woodstreaking and xylem gummosis similar to
+the wood discoloration observed in escaaffected adult vines. Table 1 shows reported examples of such syndromes and of
+browning of grapevine wood in propagating material examined before planting.
+Pathogen or Pathogens?
+Despite observations made by researchers for more than a century, the etiology of
+esca is still controversial, and several fungi
+have been associated with it.
+White rot basidiomycetes. The association of esca symptoms with wood decay
+dates back to early works on the subject
+(66), but both the number and identity of
+the fungi causing esca have long been debated. In France, Italy, and other countries
+(1,9,28–31,43,61,62,65,78,79), P. igniarius
+and, to a lesser extent, S. hirsutum were for
+many years the basidiomycetes most commonly associated with white rot of grapevine. For this reason, one or the other of
+these fungi was also presumed to be the
+real cause of esca. This etiology, however,
+was never established by reproducing all
+the disease symptoms.
+Knowledge about the basidiomycetous
+fungi involved in wood decay of vines has
+progressed in recent years (12,13,38,
+39,44,53,69).
+In Italy, white rot of vine wood was only
+very infrequently associated with S. hirsuFig. 6. Spotting of grape berries (black measles). Minute dark brown or purple spots on the berry skin can be scattered (A) or distributed in bands (B). Cracks can also form on the berry. (photos courtesy S. Frisullo)
+Plant Disease / May 1999 409
+tum, but the great majority of white rot
+samples examined was colonized by a
+fungus that was initially classified as P.
+igniarius on the basis of in vitro cultures.
+Work carried out in France (40) in the
+same years also led to the isolation of S.
+hirsutum with very low frequency, but here
+the basidiomycete most commonly found
+was Phellinus punctatus (P. Karst.) Pilát.
+The correct name for this species is
+Fomitiporia punctata (Fr.) Murrill (25).
+Further studies of a group of strains isolated in Italy has shown that these strains
+were actually F. punctata (M. Fischer and
+L. Mugnai, unpublished). It seems therefore that previous records of P. igniarius
+were misidentifications of F. punctata, and
+that this is the basidiomycete commonly
+associated with decayed wood, at least in
+France and Italy.
+Nonbasidiomycetous fungi associated
+with esca. In some vine-growing areas of
+the Mediterranean where the prevailing
+climate is of the continental type, the ascomycete Eutypa lata (Pers.:Fr.) Tul. & C.
+Tul. is quite frequently isolated from discolored vine wood, and this could be
+thought to complicate the picture of esca
+syndrome. E. lata, however, is known to
+cause a distinct disease, Eutypa dieback,
+with its own symptomatology. Sometimes
+Eutypa dieback and esca occur on the same
+vine during a growing season, the former
+producing reduced, bushy growth and leaf
+yellowing in May, the latter—on a different branch or even on the same branch—
+leaf chlorosis and necrosis in summer (45).
+In the more southerly vine-growing areas
+of Europe, E. lata either is not found at all
+or is rare on esca-affected vines. Another
+plant pathogenic ascomycete commonly
+isolated from the trunks and branches of
+esca-affected grapevines is Botryosphaeria
+obtusa (Schwein.) Shoemaker.
+Chiarappa (9) reported that the brownred marginal zones bordering the decayed
+wood of grapevines affected with black
+measles were colonized by a Cephalosporium-like species, which discolored vinewood in vitro and produced brown streaks
+when inoculated into standing grapevines.
+In Europe, several mitosporic fungi, including undetermined species of Cephalosporium, Acremonium, and Phialophora,
+were isolated with relatively high frequency from the wood of esca-diseased
+grapevines (5,20,31,44), but their role in
+the disease process has remained unknown.
+That a succession of fungi might be involved in the esca disease process was first
+proposed by the French researchers
+Larignon and Dubos (39), who suggested
+that each fungus was associated with a
+particular stage of wood discoloration.
+Species of Phialophora, Cephalosporium,
+Table 1. Reports of declines of young grapevines associated with brown wood-streaking and of wood discoloration of rooted cuttings
+Syndrome or disease name Associated microorganisms Country and references
+Brown wood-streaking (wound-related gummosis) Two Cephalosporium species (possibly identical to
+Phaeoacremonium chlamydosporum and P. aleophilum)
+Italy (58)
+Wood discoloration of rooted cuttings before
+planting
+Several fungi, including Acremonium sp. Italy (27)
+Slow dieback Phialophora parasitica (=P. chlamydosporum) South Africa (24)
+Black goo P. chlamydosporum California (47,48; L. Chiarappa,
+personal communication)
+P. chlamydosporum Australia (56)
+Phaeoacremonium grapevine decline P. chlamydosporum, P. aleophilum, P. inflatipes California (68)
+Wood discoloration of rooted cuttings before
+planting
+P. chlamydosporum Italy and France (2,77)
+Decline of young grapevines P. chlamydosporum Italy (authors’ observations)
+Fig. 7. A grapevine plant showing sectorial symptoms of apoplexy caused by esca
+disease. Green, healthy-looking leaves and grape clusters quickly wither, drying completely in a few days, but usually remain attached to the plant.
+410 Plant Disease / Vol. 83 No. 5
+and Eutypa were supposed to be the first
+wood colonizers, or pioneer fungi. Italian
+workers also examined the initial stages of
+wood discoloration, described by them as
+brown-red wood and black streaks developing at the margin of already discolored
+wood (52,53). In these tests, two mitosporic fungi were consistently isolated
+from the discolored wood, and it appeared
+they could be related to the two main pioneer fungi identified by Larignon and
+Dubos: Cephalosporium sp. and Phialophora parasitica Ajello, L.K. Georg, &
+C.J.K. Wang. These two mitosporic fungi
+isolated in Italy were assigned to a single
+new genus, Phaeoacremonium, as P.
+chlamydosporum and P. aleophilum W.
+Gams, P.W. Crous, M.J. Wingfield &
+Mugnai (14). Interestingly, the strain of
+Cephalosporium (CBS 239.74) isolated by
+Chiarappa (9) in California from the discolored wood of black measles–affected
+vines, and later considered to be close to
+Phialophora parasitica (34), was also
+eventually referred to P. chlamydosporum
+(14). These same two species of
+Phaeoacremonium were then reported to
+be the main pioneer fungi by Larignon and
+Dubos as well (40). Other Phaeoacremonium species isolated from grapevine are P.
+angustius and P. inflatipes W. Gams, P.W.
+Crous, & M.J. Wingfield (Table 2) (14).
+More recently, Dupont et al. (21) provided morphological, cultural, and molecular evidence to show that P. chlamydosporum and P. aleophilum have a distant
+phylogenetic relationship to each other.
+The first species is closer to Phialophora
+verrucosa Medlar than to Phaeoacremonium parasiticum (Ajello et al.) W. Gams,
+Crous, & M.J. Wingfield. In light of these
+findings, the whole genus will have to be
+reassessed and the species P. chlamydosporum redisposed in another genus (P. W.
+Crous, personal communication).
+Fungi associated with the decline of
+young grapevines. Some of the mitosporic
+fungi associated with esca are also involved in the decline of young grapevines
+and brown wood-streaking. Such involvement was first reported in Italy by Petri
+(58) on young grafted vines and mother
+plants. Declining vines showed brown or
+black streaking from which Petri isolated
+two strains (α and β) of Cephalosporium
+and one strain of Acremonium that did not
+correspond to any species known at the
+time. On the basis of Petri’s descriptions,
+Cephalosporium strain α and Acremonium
+sp. can be referred with sufficient accuracy
+to P. chlamydosporum and P. aleophilum,
+respectively. Petri also succeeded in reproducing brown streaking on standing vines
+by injecting the fungi isolated from diseased vines into the xylem elements
+through large wounds made on healthylooking plants.
+Since that time, cases of decline of
+young grapevines associated with brownwood streaking and gummosis have been
+recorded in several countries under different names (Table 1). In South Africa, a
+slow decline of young vines was initially
+associated with P. parasitica (24). Subsequently, however, this fungus was also
+reassigned to P. chlamydosporum (strain
+STE-U 809) (14). In California, three
+species of Phaeoacremonium, P. chlamydosporum, P. inflatipes, and P. aleophilum,
+isolated from declining vines have been
+shown to be pathogenic to grape seedlings
+(68). Finally, in different areas of Italy, a
+heavy colonization by P. chlamydosporum
+was noted on declining 2-year-old vines
+(authors’ personal observations) (Fig. 8).
+Microorganisms in Wood
+of Esca-Diseased Grapevines
+In general, two main models have been
+proposed to describe wood decay development in standing trees: the “conditioning
+of microenvironment” (CM model) (7) and
+the “compartmentalization of decay in
+trees” (CODIT model) (73).
+The CODIT model postulates a microbial succession in the colonization of wood
+in standing trees subsequent to wounding.
+Initially, there is a host response to
+wounding; this is followed by the invasion
+of the modified wood substrate by nondecay microorganisms (often mitosporic
+fungi such as species of Phialophora or
+Trichocladium); and finally, the decay
+fungi infect wood that has been
+“conditioned” by the nondecay, pioneer
+organisms (42). Alternatively, decay fungi
+first infect the wood tissue, but then further
+colonization is blocked by the host defense
+reaction, which must be overcome by the
+pioneer fungi before it can proceed (75). In
+both cases, the pioneer fungi have the task
+of detoxifying pre- and postinfectional
+antimicrobial substances.
+Most of the evidence on which the succession of microorganisms in wood decay
+is based can be seen in esca (38,40,52,53);
+however, not all findings fit this model. In
+the following description, the esca disease
+process will be described under headings
+consistent with the CODIT model.
+Compartmentalization, discoloration,
+and decay. In the trunk of a grapevine
+affected with esca, an elongated portion of
+woody tissue begins to discolor, starting
+from a large pruning wound. The affected
+tissue soon turns brown. Larger wounds
+produce larger and longer brown columns,
+which may extend radially to a sector and
+reach the pith. However, the discolored
+wood does not indicate the full extent of
+fungal colonization, which appears as a
+brownish column tapering distally or as
+cones with the points outward spreading in
+both directions from the wound (Fig. 2).
+In cross section, esca-affected vine
+trunks usually exhibit large necrotic areas,
+often first sectorial, then central in serial
+sections that are more distant from the
+wounds (Fig. 1). These necrotic zones are
+surrounded and preceded by small brown
+or black spots (Fig. 1A to F). Eventually,
+the wood decayed for the longest time
+begins to show white rot (Fig. 1D to F).
+Microscopic examination of wood samples from esca-affected grapevines (52)
+shows that, at the advancing edge of the
+Table 2. Species included in the genus Phaeoacremoniumy
+Species Host or substrate Distribution
+P. aleophilum Vitis vinifera France, Italy, Yugoslavia, USA
+P. angustius V. vinifera, soil Argentina, France, Italy, USA
+P. chlamydosporum z V. vinifera France, Italy, South Africa, USA
+P. inflatipes Humans, Nectandra sp.,
+Quercus virginiana, Sorbus
+intermedia, V. vinifera
+Costa Rica, Finland, Germany,
+Tahiti, Venezuela, USA
+P. parasiticum Humans, Prunus armeniaca Tunisia, USA
+P. rubrigenum Humans USA
+y From references 14, 21, 40.
+z This species will be redisposed in another genus (P. W. Crous, personal communication).
+Fig. 8. Cross section through the rootstock stem of a 2-year-old grapevine
+(Victoria/775 Paulsen) showing symptoms of decline. The section shows
+wood browning and black spots (which
+appear as black streaks in longitudinal
+section) due to the presence of dark
+colored, gummy masses in the xylem
+elements. The discolored wood was
+found to be colonized by Phaeoacremonium chlamydosporum.
+Plant Disease / May 1999 411
+discolored wood stripes, the first reaction
+of the xylem to fungal advance is almost
+always heavy tylosis and gummosis. The
+accumulation of tylosis and gels or dark
+brown gum gives rise to the discolored
+strands or streaks, which may extend longitudinally for tens of centimeters away
+from the wound, appearing in cross section
+as either isolated black spots or groups of
+spots around an annual ring.
+When the colonizing fungi spread out
+into the functional sapwood, a more diffuse
+wood reaction causes the formation of
+brown-red or pink-brown areas, which
+often enclose the black streaks (Fig. 1A
+and B).
+Occurrence of different fungal species
+at different stages of wood decay. The
+systematic isolation of fungi (Table 3)
+from the discolored or decayed wood of
+esca-diseased grapevines indicated a close
+relation between individual stages of wood
+deterioration and particular species of
+fungi (40,44,50,53). Up to 30 species of
+fungi were isolated from the initial stages
+of wood discoloration, but only a few of
+these were consistently present with relatively high frequency. The most frequent
+of these was P. chlamydosporum (approximately 64% of isolations from black
+streaks and 57% from brown-red wood in
+the survey illustrated in Table 3), often
+together with P. aleophilum. These species
+were also the most commonly isolated
+from the brown-red discolored wood when
+it surrounded white-rotted wood (Fig. 2).
+From the white-rotted wood itself, which is
+the last stage of wood degradation, F.
+punctata was most often isolated (Table 3,
+Fig. 2). S. hirsutum was always very rare.
+The low isolation percentages of basidiomycetes from the marginal areas of decayed wood, as well as from the
+brown/black streaks, were not due to the
+faster growth in vitro of concomitant fungi,
+as has been suggested for other pathosystems (42). Experiments on different culture
+media showed that isolates of F. punctata
+actually grew much faster than isolates of
+the two species of Phaeoacremonium (49).
+For example, P. chlamydosporum required
+as long as 2 months to come out from
+wood chips and grow onto agar plates (Fig.
+9).
+Decay progression is enhanced by
+substrate conditioning. In the decayed
+trunks of many tree species (6,70–72,74),
+the development of reddish, brown, or
+brightly discolored wood is associated with
+an increase in the concentration of antimicrobial substances such as phenolic compounds produced by the xylem parenchyma
+cells in response to invasion, presumably
+in order to inhibit fungal growth (57). In
+many cases, it has been suggested that
+pioneer fungi are able to overcome the host
+defense reaction by growing despite a high
+concentration of phenolics and related
+oxidation products, which they detoxify,
+thereby making possible the growth of
+wood-decay agents (63 and literature cited
+therein). Indeed, an ability to grow despite
+the presence of fungal growth inhibitors
+produced by the woody tissues of the host
+tree may well be the most important function of pioneer microorganisms in the microbial succession theory.
+The grapevine is a plant relatively rich
+in phenolics (64), compounds that could
+have a role in regulating fungal succession
+during wood decay.
+Growth tests in vitro (49) showed that:
+(i) in a medium in which gallic acid was
+the sole carbon source, P. chlamydosporum
+was able to grow, but the growth of F.
+punctata was completely inhibited; and (ii)
+if the medium was first conditioned by
+culturing P. chlamydosporum, the subsequent growth of F. punctata was unhindered (Table 4). Other differences in the
+growth of pioneer and decay fungi on phenol-enriched media (Table 5), including
+differences in the total amount of phenols
+extracted from grapevine wood at variously discolored decay stages, were also
+recorded (38).
+The wood-colonizing fungi show varying ability to utilize nutrients made available in injured tissues, such as the starch
+stored in abundance in the parenchyma
+rays. Microscopic examination of cross
+sections of esca-infected wood showed
+complete depletion of starch in the xylem
+tissue surrounding the brown-black streaks.
+The same picture was seen in the brownred wood that developed later, but not in
+brown necrosis, nor in the discoloration
+Table 3. Most common fungi (isolation frequency >1%) isolated from each type of wood symptom detected in grape plantsx affected by esca
+Wood chips colonized Fungal speciesz
+ (%)
+Type of wood symptom
+Wood chips
+sampled (no.)
+by fungi or
+bacteriay (%)
+Phaeoacremonium
+chlamydosporum
+P.
+aleophilum
+Botryosphaeria
+obtusa
+Eutypa
+lata
+Fomitiporia
+punctata
+1 Healthy wood 345 18 3.2 1.6 6.4 0 0
+2 Black to brown streaks 1,160 43.2 64.5 9.8 12.8 1.4 0.4
+3 Brown-red wood 883 91.7 56.6 7.7 7.2 2.9 6
+4 Cave or altered pith 529 78.3 18.4 21.5 15.9 6.5 5.6
+5 Brown necrosis 1,269 81.7 26.8 21.3 13.1 14.9 2.3
+6 White decay 313 90.1 5.7 3.2 13.8 2.1 70.6
+7 Brown-red margin of
+decayed wood
+199 68.8 26.3 10.2 7.3 5.8 54.7
+x Cultivars sampled: Cabernet, Canaiolo, Garganega, Merlot, Moscato, Regina, Riesling italico, Sangiovese, Trebbiano toscano, Trebbiano
+d’Abruzzo. Italian regions surveyed were: Abruzzi, Apulia, Friuli, Lombardy, Tuscany, Umbria, Veneto, Sicily.
+y Number of wood chips colonized as percentage of number of wood chips sampled for each symptom.
+z Number of wood chips infected with each fungus as percentage of number of colonized wood chips for each symptom.
+Fig. 9. Colonies of Phaeoacremonium
+chlamydosporum on malt agar plates.
+The fungus developed from wood fragments excised from black spots close to
+the margin of a decayed trunk portion.
+The colonies grow slowly in vitro, often
+appearing first whitish and shiny (A),
+and turning gray-olivaceous up to
+blackish with age (B).
+412 Plant Disease / Vol. 83 No. 5
+observed in the wood of rooted vine cuttings (L. Mugnai, personal observation).
+Enzyme tests in vitro showed that P.
+chlamydosporum and P. aleophilum had a
+high starch-degrading activity (Table 6),
+whereas that of F. punctata was very low.
+The well-known ligninolytic activity of
+wood rotting basidiomycetes, which enables them to degrade woody tissues
+completely (10,41,54), suggests that F.
+punctata has a key role in the development
+of white rot in esca-affected vines.
+Inoculation with decay fungi alone
+does not always produce decay. For
+many years, inoculation of white rot
+basidiomycetes into healthy grapevines has
+failed to reproduce, not only esca leaf
+symptoms, but even wood decay. Recently,
+however, Graniti et al. in Italy (51) (Table
+7) and Chiarappa in California (11)
+succeeded in reproducing white rot (Fig.
+10A).
+If these results are confirmed, they suggest either that F. punctata is a primary
+pathogen of grapevine that initiates and
+completes the entire wood decay process if
+it has a suitable wound and sufficient time,
+or that the model of Shortle and Cowling
+(75) applies here: the decay agent begins
+colonization, but its continued spread depends upon the prior detoxification of inhibitory compounds produced in the reaction zone of the plant. This process is
+usually carried out by other wood-colonizing fungi, but it can also occur, although
+more slowly, through the sole action of the
+decay agent itself.
+An overall view of the evidence suggests that while some data support the
+hypothesis of microbial succession in the
+development of esca, other data, particularly the ability of both F. punctata and
+certain species of Phaeoacremonium to act
+as primary pathogens, militate against it. In
+the case of an association, whereas prior
+colonization of the vinewood by Phaeoacremonium or other fungi will facilitate
+the progression of F. punctata into the host,
+such colonization is not strictly necessary.
+When these two pathogenic fungi are
+present together in the woody tissue of a
+grapevine, two different syndromes or
+diseases may become concurrent. When
+the fungi are not present together at the
+appropriate time, each may induce its own
+syndrome or disease.
+Reproduction
+of Esca Symptoms
+The wood-decaying ability of F. punctata (as P. igniarius) has been demonstrated in vitro using small blocks of surface-sterilized (9) or autoclaved grapevine
+wood (40,51), and by inoculation tests on
+standing grapevines (11,51). Wood decay
+by S. hirsutum has been brought about in
+vitro with isolates from France (40,79).
+As for the other internal symptoms, i.e.,
+black streaking and brown-red wood discoloration, field inoculation experiments in
+Italy indicated that P. chlamydosporum and
+to a lesser extent P. aleophilum colonize
+the wood of apparently healthy grapevines
+(Table 8) (50,51). Within 1 year of inoculation, these fungi produced a well-developed discolored wood column pointing
+upward and downward away from the inoculum dowel (Fig. 10B). The dark brownred discoloration extended in both directions from the inoculation point in long
+black streaks (passing about 30 cm on
+average beyond the brown-red necrosis).
+The inoculated fungi were readily reisolated from these streaks. Microscopic examination of the darkened wood revealed
+tyloses and dark gummy masses filling the
+lumen of the xylem elements; these symptoms were similar to those shown by escainfected vines. A similar wood discoloration also developed in control grapevines,
+which were wounded but not inoculated;
+however, its extent here was restricted and
+no fungi could be isolated from the discolTable 6. Enzyme activity of fungal strains isolated from esca-affected grapevines
+Enzyme
+Fomitiporia
+punctata
+(6 strains)
+Phaeoacremonium
+chlamydosporum
+(7 strains)
+Phaeoacremonium
+aleophilum
+(8 strains)
+Ligninolytic enzymes
+Phenoloxidase ++++w –x –
+Laccase ++++ – –
+Peroxidase ++++ + +
+Cellulosolytic enzymes
+Endo-1,4-β-glucanase ++++ ++++ ++++
+Eso-cellobiohydrolase +/– – –
+ß-glucosidase ++++ ++++ ++++
+Starch hydrolysis +/–y ⊕z ⊕
+w Percent strains with enzyme activity: ++++, >75%; +++, 50 to 75%; ++, 25 to 50%; +,
+<25%.
+x No strain with enzyme activity.
+y Weak hydrolytic activity by all strains.
+z High hydrolytic activity by all strains.
+Table 4. Growth of Fomitiporia punctata on a gallic acid medium conditioned by previous
+growth of Phaeoacremonium chlamydosporum
+Preinoculation
+Additions to medium before/after
+growth of F. punctatax (g/liter)
+Mean wt of mycelium
+of F. punctatay (g/liter)
+None Glucose 10/no addition 2.7 abz
+Glucose 10/gallic acid 8.1 0.0 a
+Gallic acid 1/no addition 0.0 a
+Gallic acid 1/glucose 8.76 0.0 a
+P. chlamydosporum Glucose 10/gallic acid 8.1 4.35 bc
+Gallic acid 1/glucose 8.76 3.36 ab
+x P. chlamydosporum was grown in the mineral medium of Eriksson and Pettersson (23)
+containing glucose (10 g/liter) or gallic acid (1 g/liter). After incubation for 25 days at 25°C
+on a rotary shaker and before inoculation with F. punctata, the culture medium was filtersterilized and the resulting culture filtrate was not supplemented, or supplemented with 8.1
+g of gallic acid per liter if it contained glucose, or with 8.76 g of glucose per liter if it contained gallic acid.
+y Mean oven-dried weight, growth after 40 days.
+z Means with different letters differed significantly at P = 0.01 (Tukey’s test).
+Table 5. Effect of the addition of five phenolic compounds to a basal medium on the growth
+of Fomitiporia punctata, Phaeoacremonium chlamydosporum, and P. aleophilum at 25 days
+Phenolic compound (1g/liter)z
+Fungus
+Caffeic
+acid
+Gallic
+acid
+Syringic
+acid
+Tannic
+acid
+Vanillic
+acid
+F. punctata –22 –8 –100 –53 –100
+P. chlamydosporum –6 +15 +1 +46 –71
+P. aleophilum –66 +39 –30 –63 –100
+z –, percent growth inhibition over controls; +, percent growth stimulation over controls.
+Plant Disease / May 1999 413
+ored tissues. No symptoms were noted in
+the foliage of inoculated vines over the 18
+months of these experiments (L. Mugnai et
+al. and A. Graniti et al., unpublished).
+Similar results with both species of
+Phaeoacremonium were obtained in France
+(40).
+As already mentioned, the wood-colonizing ability of Cephalosporium strains
+later identified as P. chlamydosporum had
+been previously demonstrated on standing
+adult vines both in Italy (58) and in California (9).
+So far, artificial infections with F.
+punctata, P. chlamydosporum, and P.
+aleophilum on the vine trunk and branches
+have not been able to reproduce the foliar
+symptoms of esca. This could be because
+the tests were too short in duration for the
+inoculated fungi to colonize and degrade
+the woody tissue sufficiently to affect the
+leaves. However, the absence of foliar
+symptoms may also be due to the same
+factors that cause the irregular recurrence
+of foliar symptoms in the vineyard from
+year to year: the lack of a combination of
+optimal circumstances that is not easy to
+imitate in an artificial environment and that
+includes the production of bioactive fungal
+metabolites, their transport and accumulation in sufficient concentration in the target
+organs, and the activation of their mechanism of action.
+Sources of Inoculum
+S. hirsutum, although only infrequently
+associated with decay of grapevine wood,
+readily forms basidiocarps on wooden
+stakes used for support or trellising, so that
+wind-borne basidiospores of this fungus
+can nevertheless easily reach and colonize
+wound surfaces on vines.
+F. punctata (or P. igniarius) produces its
+basidiocarps on many broadleaf tree species, including several forest trees. These
+structures are rarely produced on the living
+trunks of esca-infected vines, but they are
+occasionally encountered on dead vine
+trunks or branches left in the field or at the
+edge of vineyards after pruning. Inoculum
+production via spores produced by basidiocarps may therefore not be common in the
+vineyard. The proximity of woods or tree
+plantings does not seem to cause a higher
+incidence of esca in nearby vineyards. It
+seems probable, therefore, that the basidiospores, released and disseminated by air
+currents, play only a minor role in the
+spread of esca. The observation that the
+spread of esca tends to be along the rows
+of vines (1,12) suggests that the fungal
+inoculum is carried by the tools used in
+grafting and pruning.
+As far as P. chlamydosporum and its
+congeneric species on vines (14) are concerned, although pertinent data are lacking,
+it is likely that conidia are produced in
+abundance during the saprobic phase on
+Table 7. Inoculation experimentsv with Fomitiporia punctata on grapevines in the field (13-year-old, cv. Sangiovese) and in glasshouse (2-yearold, cv. Italia)
+Extent of discoloration in vine wood
+(cm)
+Infected vines showing white rot
+(%)
+Reisolation of F. punctata from
+altered or decayed wood (%)
+Experiment Inoculated vines Control Inoculated vines Control Inoculated vines Control
+Field 6.2w 5.8x 24 0 13 0
+Glasshouse 13y 8z 20 0 20 0
+v Inoculations were performed by inserting a colonized agar plug (sterile agar plug for controls) into wound. Results were recorded 2 years after
+inoculation.
+w Average of 45 replicates.
+x Average of 15 replicates.
+y Average of 75 replicates.
+z Average of 25 replicates.
+Fig. 10. (A) Decayed wood in a grapevine branch inoculated with Fomitiporia punctata.
+Two years after inoculation, white rot extended from the pith into the nonfunctional
+wood. (B) Section through the trunk of a 6-year-old grapevine, 3 months after inoculation with Phaeoacremonium chlamydosporum. Brown-red wood and brown to black
+streaks developed from the inoculation site. From these areas, the fungus was reisolated after 1 year up to 30 cm above and below the inoculation site with an average
+80% success rate.
+414 Plant Disease / Vol. 83 No. 5
+dead vinewood or other plant debris and
+that chlamydospores persist in the soil. The
+inoculum is then available to infect trunks,
+branches, and roots through injuries caused
+by pruning, grafting, or in other ways.
+Another possibility is that species of
+Phaeoacremonium are already present in
+the propagation material (cuttings and
+rootstock) (47,68), derived either from
+mother plants that harbor fungal infections
+in a more or less latent form (endophytic),
+or from scions or rooted cuttings that have
+become infected through cuts and other
+wounds during preparation and storage. P.
+chlamydosporum has been isolated with
+high frequency (16 to 55%) from rooted
+vine cuttings produced in Italy or France;
+these cuttings show wood darkening,
+gummosis, and black streaking (2,77).
+Environmental and Cultural
+Factors
+Environmental and seasonal factors appear to contribute to esca symptom expression. The characteristic interveinal chlorosis and necrosis on the leaves, which is
+absent or indistinct in spring growth, is
+fully visible in summer and autumn.
+Apoplexy usually occurs only in summer.
+It is likely that alternation between rainy
+and dry periods, plus the occurrence of
+lesions or injuries caused by freezing and
+presumably hail, favor penetration of F.
+punctata, species of Phaeoacremonium,
+and other fungi through the resulting
+wounds.
+The amount of water in the soil does not
+seem to be a factor in disease development,
+since in southern Italy and in California,
+table-grape vineyards with and without
+irrigation are equally likely to exhibit esca
+symptoms. In Sicily, esca is more commonly found in vineyards established on
+deep, rich soils (33).
+Plant age is a critical factor for esca development. Although 4- to 5-year-old vines
+sometimes already show foliar symptoms
+of esca, it is only on plants 10 years and
+older that symptoms and damage become
+more common. This age factor was related
+by Viala (79) to tannin levels in the plants.
+These levels increase from 12 to 13 years
+until 25 to 30 years, which is also when the
+vines show internal and external esca
+symptoms with the highest frequency and
+severity. More recent and accurate data on
+the tannin-age correlation are lacking;
+however, it now seems more likely that the
+greater incidence of esca in old vineyards
+can be explained simply by the fact that
+younger plants, although affected, do not
+yet show the whole range of internal and
+external esca symptoms owing to the slow
+development of the disease. What remains
+unclear is the time required for foliar
+symptoms to appear after infection, as well
+as the type and extent of wood discoloration needed for symptoms to appear on the
+leaves and fruits.
+The type of vine training that requires
+frequent and extensive pruning or large
+rejuvenation cuttings creates favorable
+conditions for the development of esca. A
+study by Lafon (37) reported that the incidence of apoplexy was 0.1% in vineyards
+trained by lateral cordon, but 15 to 20% in
+vines trained by double Guyot.
+Most species of Vitis and cultivars of V.
+vinifera are susceptible to esca. American
+vines were once considered resistant, particularly because a rootstock could produce
+new shoots after the scion had dried up. It
+now seems more likely, however, that
+shoot production occurs because wood
+discoloration proceeds from the large
+branches inward to the trunk and only
+rarely reaches below the graft union. Indeed, it is quite common to see American
+vines that have not been grafted (e.g.,
+mother plants) with all the external and
+internal symptoms of esca.
+Impact
+Over the last 10 years, esca has gained
+importance in all European vine-growing
+countries, where its incidence has increased markedly (19,36). In Portugal,
+Hungary, France, and Germany, esca is
+estimated to have reached incidences of 20,
+11, 15, and 19%, respectively (19). In Italy,
+the disease is found in all vine-growing
+regions. In many areas, it affects 90 to
+100% of vineyards, with an annual incidence varying between 1 and 50% in 15- to
+25-year-old vineyards and an average annual increase estimated at 4 to 5%. The
+percentage of vines struck by apoplexy, on
+the other hand, is around 2% annually
+(46,55). Chronic symptoms are now frequently reported on vines younger than 8
+to 10 years (12,19,46). However, the incidence of esca estimated by the presence or
+absence of foliar symptoms in single years
+would be variable and quite misleading,
+mainly because from one year to the next,
+symptoms can suddenly fail to appear in
+plants whose wood is nevertheless still
+Table 8. Results of inoculation experiments with Phaeoacremonium chlamydosporum and P.
+aleophilum on 6-year-old grapevines cv. Sangiovesex
+Fungus inoculated
+Months after
+inoculation
+Wood discolorationy
+(cm)
+Wood colonizationz
+(cm)
+P. chlamydosporum 3 25 22.6
+6 31.7 31.7
+9 47.1 40.3
+P. aleophilum 3 22.9 2.9
+6 25.6 0.7
+9 36 4.2
+Control 3 10.2 0.0
+6 6.2 0.0
+9 15 0.0
+x Means of three replicates.
+y Extent of discolored wood portions above and below inoculation site.
+z Extent of wood colonized by each fungus above and below inoculation site.
+Fig. 11. Esca spread, as estimated by external symptoms, in an old grape cv.
+Sangiovese vineyard in central Italy in the period 1992 to 1995. In the portion of the
+vineyard depicted on the map, the disease incidence was 19% in 1995, but it would
+have been 49% if all plants showing symptoms at least once during the 4-year test
+period had been counted. Diseased vines tended to be grouped together along the
+rows of the vineyard.
+Plant Disease / May 1999 415
+infected. In central Italy, a 4-year survey of
+a vineyard of approximately 2,000 vines
+showed that only about 3% of diseased
+plants exhibited foliar symptoms in all 4
+years in succession; 11.5% had symptoms
+in 3 years out of 4, 23% in 2 years out of 4,
+and 53% in only 1 year out of 4. During
+that same period, about 10% of the vines
+that had shown symptoms died of apoplexy
+(Fig. 11). In order to assess esca incidence
+correctly, therefore, vineyards should be
+monitored for at least 3 to 4 years in succession. In fact, examination of vine trunks
+made when vines are being uprooted reveals that the percentage of vines with
+internal symptoms of esca is much higher
+than that of vines with foliar symptoms.
+Control
+Chemical control of esca is still carried
+out by means of sodium arsenite treatments, at least in France, Portugal, and
+Spain, where its use has not yet been
+banned. Although the mode of action of the
+arsenites is not completely understood,
+they prevent or limit the symptoms of esca.
+Treatments are usually applied by spraying
+or painting the trunks and main branches
+with a sodium arsenite solution (12.5
+g/liter). Treatments should be applied for 2
+consecutive years, at least 2 weeks after
+pruning and not later than 3 weeks before
+sprouting (15). In the third and fourth
+years, the treatment can be omitted but
+must then be repeated in the following 2
+years, and so on. The treatment threshold,
+i.e., percentage of affected vines in a vineyard at which intervention is required,
+varies from 0.5 to 2% (8).
+A number of other chemicals (dinitroorthocresol, fenarimol, furmetamide,
+benodanil, fosetyl Al, and several triazole
+fungicides) have been tested but are not
+really effective in controlling esca (3,16–
+18). First attempts at biological control by
+applying a suspension of Trichoderma
+viride spores in a 3% glycerin solution
+onto fresh pruning wounds have also been
+unsuccessful (4).
+Traditional cultural methods to prevent
+and treat esca therefore remain essential to
+ensure the health of vineyards and keep
+losses to a minimum. These methods include, first, ensuring that propagation material always comes from nurseries or
+mother plants with no wood darkening. In
+established vineyards, vines showing foliar
+symptoms and white rot of the trunk can be
+treated surgically by excising the rotten
+wood and protecting the resulting wounds.
+Healthy vines require special measures to
+minimize the risk of infection or reinfection. These include: (i) avoiding large
+wounds and protecting any wound made
+with a healing varnish or a dressing containing a broad-spectrum fungicide (copper, maneb, flusilazol, carbendazim, etc.);
+(ii) treating grapevines with fungicides
+soon after a severe frost; (iii) pruning
+healthy-looking vines before other vines
+that may not be healthy or are clearly diseased. In addition, clean pruning tools after
+each operation by immersing them in a
+disinfecting solution (formol, copper sulfate, etc.); (iv) do not chop or bury pruning
+residues, but burn or remove them from the
+vineyard; (v) uproot and take away from
+the vineyard all dead vines and scrap materials left over from surgical operations on
+diseased vines.
+As a sanitary measure, in autumn or in
+winter, affected vines can be cut 5 to 10 cm
+below the rotted or discolored wood; the
+cut surface is then protected with one of
+the healing mixtures mentioned above (26).
+Recently, this practice has been applied
+successfully in central Italy by selecting a
+shoot for cutting the same year that chronic
+esca symptoms first appear (Fig. 12). The
+following spring, a shoot is raised that will
+replace the canopy in 2 to 3 years (22).
+This process makes it possible to have a
+vigorous shoot that can take over without
+any significant loss of production from a
+plant that otherwise would have to be discarded because of esca.
+Finally, we should mention a traditional
+cure for esca applied in ancient times, and
+occasionally even today in some parts of
+the Mediterranean region, in which the
+trunk is cut and kept open by inserting a
+stone, leaving the rotted wood exposed to
+the air (67) (Fig. 13). This practice allows
+the foliar symptom development of esca to
+be delayed for a certain time.
+Esca: Disease Complex
+or Association of Diseases?
+In this review, we began by considering
+esca as a single but complex disease. We
+attempted to identify those symptoms that
+Fig. 12. An efficient sanitation procedure to restore an esca-affected vine consists in
+raising a basal shoot upon appearance of the first foliar symptoms of esca. The shoot
+is then grown for the following 2 to 4 years while the vine, although showing symptoms, usually remains productive. As soon as the new basal shoot is ready for grape
+production, the affected trunk portion is removed. (photo courtesy E. Egger)
+416 Plant Disease / Vol. 83 No. 5
+can coexist in individual vines, and that
+therefore seem to be part of one disease,
+albeit with different phases.
+Upon the supposition that esca is a single disease, let us consider, for the sake of
+simplicity, the three fungi that are most
+commonly found in the woody tissues of
+esca-affected vines, P. chlamydosporum, P.
+aleophilum, and F. punctata. In a twophase model of esca, the first two species
+are assumed to be already present in the
+rootstocks or scions, or in any case to
+penetrate and invade the vines in the first
+years after planting. Through the xylem
+vessels and parenchyma rays, these fungi
+then penetrate deeply inside the trunk and
+soon become the major inducers of black
+or brown wood streaks and brown-red
+wood discoloration. When circumstances
+are favorable, external symptoms reveal
+this internal infection (first phase). F.
+punctata, on the other hand, usually enters
+the vine later through grafting or pruning
+wounds. Its advance in the woody tissues
+is slow and is favored by previous colonization of P. chlamydosporum or other
+fungi. Degradation of the wood proceeds
+until it is completely decayed to white rot
+(second phase). The final outcome of this
+model, which implies a succession of microorganisms, is therefore the full range of
+esca symptoms.
+An alternative model, based on an association of microorganisms, gives due
+weight to the fact that one of the fungi
+involved, F. punctata, appears able to behave as a primary (wound) pathogen of a
+localized disease with potential systemic
+effects, causing extensive wood decay
+(white rot) with or without symptoms on
+the crown. According to this model, therefore, esca would be not a simple disease,
+but an association of two different diseases, whose internal symptoms are wood
+discoloration (mostly caused by species of
+Phaeoacremonium) and wood decay
+(caused by F. punctata), respectively. The
+two diseases can coexist in the same vine
+or evolve into each other with time. The
+final result would depend on (i) the site
+and the time of infection of each of the
+fungi involved; (ii) the relative extent of
+their colonization; (iii) the prevalence of
+one pathogen over the others; (iv) other
+conditions that can explain the variability
+and inconstancy of the external symptoms.
+If we consider what syndromes the fungi
+involved in esca produce on vineyards of
+different ages, we can distinguish the following related conditions or diseases:
+1. A decline of young grapevines is associated with species of Phaeoacremonium:
+P. chlamydosporum, P. aleophilum, P.
+inflatipes, and perhaps P. angustius, infecting mainly the rootstock. The internal symptoms are black or brown wood
+streaks, wood gummosis, or xylem darkening. Affected vines undergo decline,
+wilting, dieback, and death. This disease
+is known by a variety of local or common names, the last being Phaeoacremonium grapevine decline (68). However, the major incitant of this decline, P.
+chlamydosporum, will be disposed in
+another genus (P. W. Crous, personal
+communication), and consequently the
+name given to this disease is no longer
+appropriate and should be changed. For
+this reason we propose “Petri grapevine
+decline” in honor of L. Petri, who was
+the first to relate wood brown-streaking
+and wood gummosis to fungal infection
+by Acremonium-like fungi and saw the
+close relation between brown woodstreaking and esca.
+2. On established grapevines, a condition
+or disease related to esca is characterized mainly by symptoms on the leaves
+(interveinal chlorosis and necrosis) and
+possibly on the fruits (black measles),
+with wilt of the branches, as well as
+wood discoloration and gummosis. It is
+caused primarily by infections of one or
+more species of Phaeoacremonium
+through wounds during the first years of
+growth or later. This condition has to be
+referred to as the “brown wood-streaking” of Petri, or since it may eventually
+turn into true esca, it could be called by
+the popular name “young esca.”
+3. Mature and old vines can suffer from a
+condition in which F. punctata or other
+wood-rotting basidiomycetes penetrate
+through wounds, invade the woody tissues, and become predominant over
+other concomitant fungi, causing complete decay of part of the trunk, i.e.,
+white rot with or without symptoms on
+the crown. When white rot is concomitant with brown wood-streaking, the affected vines show the whole range of
+internal and external symptoms of the
+disease that is currently known as “esca”
+(esca proper).
+From the number of hypotheses proposed in this paper, it seems clear that
+research on esca disease is far from being
+conclusive. Much work still needs to be
+carried out in order to fully understand
+how the different syndromes develop and
+their relationship, and to collect all the
+necessary data to demonstrate experimentally whether esca is a disease complex or
+an association of two diseases.
+Acknowledgments
+Original information reported in this work refers to research supported by grants from the
+Regione Toscana (ARSIA), the Italian Ministry for
+Universities and Scientific and Technological
+Research (MURST), and the National Research
+Council (CNR). We would like to express our
+gratitude to L. Chiarappa (Davis, CA, USA) and S.
+Woodward (Aberdeen, UK) for fruitful discussion
+and critical revision of the text. Thanks are due to
+the members of the International Council on
+Grapevine Trunk Diseases (ICGTD), convened in
+California in July 1998, for giving us an update on
+the declines of young grapevines. Thanks are also
+cordially extended to E. Bertelli, L. Sparapano, G.
+Bruno, and C. Ciccarone, who cooperated with us
+in some parts of the research on esca, and to A.
+Esposito for technical assistance and L. Bonuomo
+for image composition. Figures (Figs. 4B, 6, and
+10A) were reproduced from the proceedings of a
+meeting (32,51), with permission of Ente Regionale per lo Sviluppo dell’Agricoltura (E.R.S.A.),
+Udine, Italy.
+Literature Cited
+ 1. Baldacci, E., Belli, G., and Fogliani, G. 1962.
+Osservazioni sulla sintomatologia e
+sull’epidemiologia della carie del legno di
+vite (mal dell’esca) da Phellinus (Fomes) ignarius (L. ex Fr.) Patouillard. Riv. Patol. Veg.,
+Serie III 2:165-184.
+ 2. Bertelli, E., Mugnai, L., and Surico, G. 1998.
+Presence of Phaeoacremonium chlamydosporum in apparently healthy rooted grapevine cuttings. Phytopathol. Mediterr. 37:79-
+82.
+ 3. Bertona, A., Campagna, C., Giambelli, A.,
+and Pasquali, F. 1996. Attività di Ciproconazolo (Atemi) sul complesso del “mal
+dell’esca”. Pages 147-150 in: Convegno nazionale “Arsenico, Sí-No”, Codroipo, Udine, 14
+dicembre 1995, Forum Fitoiatrici, ERSA,
+Udine.
+ 4. Bisiach, M., Minervini, G., and Di Marco, S.
+1996. Attualità nella difesa contro il “mal
+dell’esca” della vite. Pages 123-135 in: Con

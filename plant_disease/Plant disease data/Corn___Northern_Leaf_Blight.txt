@@ -1,0 +1,72 @@
+Northern corn leaf blight (NCLB) or Turcicum leaf blight (TLB) is a foliar disease of corn (maize) caused by Exserohilum turcicum, the anamorph of the ascomycete Setosphaeria turcica. With its characteristic cigar-shaped lesions, this disease can cause significant yield loss in susceptible corn hybrids.[1]
+
+Hosts and symptoms
+Lesions can eventually expand to a more oblong or “cigar” shape. They may also coalesce to form large areas of necrotic tissue.
+
+There are several host-specific forms of E. turcicum. The most economically important host is corn, but other forms may infect sorghum, Johnson grass, or sudangrass.[2] The most common diagnostic symptom of the disease on corn is cigar-shaped or elliptical necrotic gray-green lesions on the leaves that range from one to seven inches long.[3] These lesions may first appear as narrow, tan streaks that run parallel to the leaf veins. Fully developed lesions typically have a sooty appearance during humid weather, as a result of spore (conidia) formation. As the disease progresses, the lesions grow together and create large areas of dead leaf tissue. The lesions found in Northern corn leaf blight are more acute if the leaves above the ear are infected during or soon after flowering of the plant.[4] In susceptible corn hybrids, lesions are also found on the husk of ears or leaf sheaths. In partially resistant hybrids, these lesions tend to be smaller due to reduced spore formation. In highly resistant hybrids, the only visible disease symptoms may be minute yellow spots.[5]
+
+On severely infected plants, lesions can become so numerous that the leaves are eventually destroyed. Late in the season, plants may look like they have been killed by an early frost. Lesions on products containing resistance genes may appear as long, chlorotic, streaks, which can be mistaken for Stewart’s wilt or Goss's wilt.[6]
+
+Disease cycle
+NCLB disease cycle
+Disease cycle of northern corn leaf blight
+In nature, E. turcicum lives and reproduces in an asexual phase with a relatively simple life cycle. In temperate regions, the fungus overwinters mycelia, conidia, and chlamydospores in the infected corn debris.[2] When conditions become favorable the following season, conidia are produced from the debris and dispersed by rain or wind to infect new, healthy corn plants.[5] Once on a leaf, conidia will germinate and directly infect the plant. The damage to the plant is relatively localized, although diseased corn plants are more susceptible to stalk rot than are healthy plants.[2] In conditions with high humidity, the fungus will produce new spores at the leaf surface, which are spread by rain or wind through the crop and create cycles of secondary infection.[5] One complete cycle on susceptible plants takes approximately 10 to 14 days, whereas it takes about 20 days on plants with resistance.[2] At the end of the season, E. turcicum goes into a state of dormancy in crop residue.
+
+Environment
+The ideal environment for NCLB occurs during relatively cool, wet seasons.[5] Periods of wetness that last more than six hours at temperatures between 18 and 27 °C (64 and 81 °F) are most conducive to disease development.[2] Infection is inhibited by high light intensity and warm temperatures. Leaving large amounts of infected residue exposed in the field and continuing to plant corn in those fields will promote disease progress by providing large amounts of inoculum early in the season.[5] Also, the number of conidia produced in an infected field increases significantly after rain due to the increase in moisture.[7]
+
+Sporulation requires a 14-hour dew period between 20 and 25 °C (77 °F). When there is not a sufficiently long period of continuous humidity, the fungus will stop making spores and resume conidia production only when humidity level rises again. For this reason, sporulation often occurs during nighttime and is halted when humidity falls during the day.[7]
+
+In the United States, NCLB is a problem during the spring in southern and central Florida and during the summer months in the Midwestern states.[8] On a global scale, NCLB is a problem in corn-growing areas in the mid-altitude tropics, which have the wet, cool environment that is favorable for disease development. These susceptible areas include parts of Africa, Latin America, China, and India.[1]
+
+Management
+Preventative management strategies can reduce economic losses from NCLB. Preventative management is especially important for fields at high risk for disease development. In-season disease management options, such as fungicides, are also available.
+
+Management of NCLB can be achieved primarily by using hybrids with resistance, but because resistance may not be complete or may fail, it is advantageous to utilize an integrated approach with different cropping practices and fungicides. Scouting fields and monitoring local conditions is vital to control this disease.[5]
+
+Major (vertical) resistance of corn hybrids comes from the race specific Ht1, Ht2, Ht3, and HtN genes, with the Ht1 gene being most prevalent. Plants with Ht1 Ht2, or Ht3 genes have smaller, chlorotic lesions and reduced sporulation.[2] The HtN gene delays symptoms until after the pollen shed. Individually, each Ht gene has limited effectiveness because there are races of E. turcicum that are virulent in the presence of one or the other. For example, widespread use of the Ht1 gene has reduced the prevalence of the Race 0 to which it has resistance against, but has increased Race 1. Breeders are now focusing on incorporating several resistance genes into corn hybrids. Incorporating both the Ht1 and Ht2 provide resistance against both Races 0 and 1. Thus far, this multigenic approach has proven to be effective. However resistant plants still show some symptoms, and the threat of new races showing up lends to the need for other management practices, especially in areas where the disease is present.[9]
+
+Ways to change cropping practices to control the disease include reducing the amount of infected residue left in a field, managing weeds to improve airflow and reduce humidity, and encouraging residue decomposition with tillage. The tillage will assist in breaking down crop debris and reducing existing inoculum. In a system with normal tillage, a one-year rotation out of corn can be effective, but a two-year rotation may be required for a reduced-tillage system. If possible, planting in low areas that receive heavy dew and fog should be avoided.[5] A combination of crop rotation for one to two years followed by tillage is recommended to prevent NCLB disease development.[10]
+
+The use of foliar fungicides for corn have also been shown to control NCLB.[5] Research suggests that using fungicides to keep the upper 75% of the leaf canopy disease-free for three quarters of the grain-filling period will eliminate yield loss [11] To ensure that newly emerging leaf tissue is protected from infection, before the plants are in tassel, fungicides should be applied on the same day that significant conidial dispersal is expected to occur. After tasseling and silking, timing becomes less important since plant expansion will have slowed down.[12] The disease pressure in the field and weather conditions should be monitored and evaluated beforehand to determine if fungicides are needed or not.[5]
+
+Importance
+NCLB can cause significant yield loss in corn. If severe disease is present two to three weeks after silking in field corn, grain yields may be reduced by 40 to 70 percent. In the U.S. Corn Belt and Ontario, NCLB has recently become a significant disease,[5] causing estimated yield losses of an alarming 74.5 million bushels of grain in 2012 and 132.3 million bushels of grain in 2013.[13]
+
+In susceptible varieties of sweet corn, yields can be reduced by up to 20 percent. In fresh market sweet corn, not only is yield lost, but market value will decrease if the ear husks become infected. The lesions cause the ears to appear old and poor quality even if they are fresh.[7]
+
+Researchers in Hokkaido, Japan have also discovered that NCLB reduces the quality of corn silage as animal feed. Their study showed that the digestibility of dry matter, organic matter, and gross energy was significantly lower in the inoculated silage compared to the control. Total digestible nutrients and digestible energy were reduced by 10.5 and 10.6 percent, respectively[14]
+
+Pathogenesis
+Spores of the fungus that causes this disease can be transported by wind long distances from infected fields. Spread within and between fields locally also relies on wind blown spores.
+
+E. turcicum causes disease and reduces yield in corn primarily by creating the necrotic lesions and reducing available leaf area for photosynthesis.[5] Following conidia germination, the fungus forms an appressorium, which penetrates the corn leaf cell directly using an infection hypha. Once below the cuticle, the infection hypha produces infection pegs to penetrate the epidermal cell wall. After penetration through the cell wall, the fungus produces intracellular vesicle to obtain nutrients from the cell. After approximately 48 hours after infection, necrotic spots begin to form as the epidermal cells collapse.[15]
+
+Fungal toxins also play an important role in disease development. Researchers have found that a small peptide called the E.t. toxin allows a non-pathogenic isolate of E. turcicum to infect corn when suspensions of conidia and the toxin were in contact with the leaves. This toxin has also been shown to inhibit root elongation in seedlings and in chlorophyll synthesis. Another toxin produced by E. turcicum, called monocerin, is a lipophilic toxin known to cause necrosis of leaf tissue
+Northern corn leaf blight (NCLB) is a serious disease of corn caused by the fungus Exserohilum turcicum. Managing and curing this disease involves a combination of cultural practices, resistant varieties, and fungicide applications. Here's an in-depth guide on how to manage Northern corn leaf blight:
+
+Identification
+Symptoms:
+Lesions: Long, elliptical, grayish-green or tan lesions on leaves, typically 1-6 inches in length.
+Progression: Lesions can merge, leading to large areas of blighted tissue, potentially killing leaves.
+Conditions: Symptoms are most severe in warm, humid conditions.
+Cultural Practices
+Crop Rotation:
+
+Rotate corn with non-host crops (such as soybeans or small grains) to reduce the buildup of the fungus in the soil.
+Tillage:
+
+Implement tillage practices to bury infected crop residues, which can reduce the survival of the fungus in the field.
+Planting Date:
+
+Adjust planting dates to avoid peak periods of favorable conditions for NCLB. Early planting may help crops escape the most severe periods of infection.
+Field Selection:
+
+Choose well-drained fields and avoid planting corn in low-lying areas prone to extended periods of leaf wetness.
+Resistant Varieties
+Selection:
+Plant corn hybrids that are resistant or tolerant to NCLB. Check with seed suppliers for information on resistant hybrids.
+Chemical Control
+Fungicide Application:
+Timing: Apply fungicides at the first sign of disease or when environmental conditions favor disease development. Early applications are most effective.
+Products: Use fungicides containing active ingredients such as strobilurins (e.g., azoxystrobin), triazoles (e.g., propiconazole), or combination products.

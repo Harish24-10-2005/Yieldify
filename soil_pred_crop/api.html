@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soil Analysis</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+            background-image: url('backgrouund/pexels-airin-party-252379-767240.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+        .container {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 900px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            box-sizing: border-box;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 28px;
+            width: 100%;
+            text-align: center;
+        }
+        .inputs, .chart-container {
+            flex: 1;
+            min-width: 300px;
+            max-width: 45%;
+            box-sizing: border-box;
+        }
+        input[type="file"],
+        input[type="text"] {
+            width: 100%;
+            padding: 14px 18px;
+            margin: 12px 0;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-sizing: border-box;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+        input[type="file"]:hover,
+        input[type="text"]:hover,
+        button:hover {
+            transform: scale(1.02);
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            width: 100%;
+            padding: 14px 18px;
+            background: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: 500;
+            transition: background 0.3s ease;
+            margin-top: 10px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        .result {
+            display: none;
+            margin-top: 20px;
+        }
+        .result p {
+            margin: 8px 0;
+            font-weight: bold;
+            color: #333;
+        }
+        .loader {
+            border: 6px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 6px solid #3498db;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+            display: none;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        canvas {
+            display: block;
+            margin: 20px auto;
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 4px 0;
+        }
+        #logo {
+            position: absolute;
+            top: 20px; /* Adjust as needed */
+            left: 20px; /* Adjust as needed */
+            width: 100px;
+            height: 100px;
+            border-radius: 50%; /* Make the image round */
+            border: 2px solid #fff; /* Optional: Add a border */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    
+    <img id="logo" src="images\logo (2).png" alt="Logo">
+    <div class="container">
+        <h1 class="animate__animated animate__fadeInDown">Soil Analysis</h1>
+        <div class="inputs animate__animated animate__fadeInLeft">
+            <input type="file" id="image" accept="image/*" class="animate__animated animate__fadeInUp">
+            <input type="text" id="location" placeholder="Enter District" class="animate__animated animate__fadeInUp">
+            <button onclick="analyzeSoil()" class="animate__animated animate__fadeInUp">Analyze</button>
+            <div class="loader" id="loader"></div>
+            <div class="result" id="result"></div>
+        </div>
+        <div class="chart-container animate__animated animate__fadeInRight">
+            <canvas id="soilChart"></canvas>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        let soilChartInstance;
+
+        async function analyzeSoil() {
+            const imageInput = document.getElementById('image');
+            const locationInput = document.getElementById('location');
+            const loader = document.getElementById('loader');
+            const resultDiv = document.getElementById('result');
+            const soilChart = document.getElementById('soilChart');
+
+            if (!imageInput.files[0]) {
+                alert('Please upload an image');
+                return;
+            }
+
+            const location = locationInput.value;
+
+            const formData = new FormData();
+            formData.append('image', imageInput.files[0]);
+            formData.append('location', location);
+
+            loader.style.display = 'block';
+            resultDiv.style.display = 'none';
+            soilChart.style.display = 'none';
+
+            try {
+                const response = await fetch('http://127.0.0.1:8000/predict_soil/', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                displayResult(data);
+            } catch (error) {
+                console.error('Error:', error);
+                alert(`An error occurred: ${error.message}`);
+            } finally {
+                loader.style.display = 'none';
+            }
+        }
+
+        function displayResult(data) {
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = '';
+
+            if (data.Error) {
+                resultDiv.innerHTML = `<p>${data.Error}</p>`;
+            } else {
+                resultDiv.innerHTML = `
+                    <p><strong>Soil Type:</strong> ${data['Soil Type']}</p>
+                    <p><strong>Soil Texture:</strong> ${data['Soil Texture']}</p>
+                    <p><strong>Percentages:</strong></p>
+                    <ul>
+                        <li>Gravel: ${data['Percentages'].Gravel}%</li>
+                        <li>Sand: ${data['Percentages'].Sand}%</li>
+                        <li>Silt: ${data['Percentages'].Silt}%</li>
+                    </ul>
+                    <p><strong>Nutrient Level:</strong> ${data['Nutrient Level']}</p>
+                    <p><strong>pH Level:</strong> ${JSON.stringify(data['pH Level'])}</p>
+                    <p><strong>Crop Recommendation:</strong> ${data['Crop Recommendation']}</p>`;
+                    renderChart(data['Percentages']);
+                    }
+                    resultDiv.style.display = 'block';
+                }
+            
+                function renderChart(percentages) {
+                    if (soilChartInstance) {
+                        soilChartInstance.destroy();
+                    }
+            
+                    const ctx = document.getElementById('soilChart').getContext('2d');
+                    soilChartInstance = new Chart(ctx, {
+                        type: 'pie',
+                        data: {
+                            labels: ['Gravel', 'Sand', 'Silt'],
+                            datasets: [{
+                                label: 'Soil Texture',
+                                data: [percentages.Gravel, percentages.Sand, percentages.Silt],
+                                backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56'],
+                                hoverOffset: 4
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            plugins: {
+                                legend: {
+                                    position: 'right',
+                                },
+                                tooltip: {
+                                    callbacks: {
+                                        label: function(context) {
+                                            const label = context.label || '';
+                                            const value = context.raw || 0;
+                                            return `${label}: ${value}%`;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    });
+                    document.getElementById('soilChart').style.display = 'block';
+                }
+            </script>
+        </body>
+        </html>            

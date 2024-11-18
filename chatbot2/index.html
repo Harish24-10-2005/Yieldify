@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Homepage</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Add CSS for AgroAidBot heading */
+        #agroaidbot {
+            font-family: Arial, sans-serif;
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            text-align: center;
+            margin-top: 20px;
+            animation: slideInDown 1s ease;
+        }
+
+        @keyframes slideInDown {
+            0% {
+                transform: translateY(-100%);
+                opacity: 0;
+            }
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+        #logo {
+            position: absolute;
+            top: -20px; /* Adjust as needed */
+            left: -20px; /* Adjust as needed */
+            width: 80px;
+            height: 80px;
+            border-radius: 50%; /* Make the image round */
+            border: 2px solid #fff; /* Optional: Add a border */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+    <script src="script.js"></script>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'},
+                'google_translate_element'
+            );
+        }
+    </script>
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</head>
+<body>
+    <img id="logo" src="images\logo (2).png" alt="Logo">
+    <h1 id="agroaidbot">AgroAidBot</h1>
+    <div id="chat-container">
+        <div id="chat-messages"></div>
+        <form id="input-form">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <button type="submit">Send</button>
+        </form>
+    </div>
+    <script src="script_1.js"></script>
+</body>
+</html>

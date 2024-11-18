@@ -1,0 +1,1069 @@
+[
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "textwrap",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "textwrap",
+        "description": "textwrap",
+        "detail": "textwrap",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.transforms",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "Compose",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "Resize",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "ToTensor",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "Normalize",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "vgg19",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Translator",
+        "importPath": "googletrans",
+        "description": "googletrans",
+        "isExtraImport": true,
+        "detail": "googletrans",
+        "documentation": {}
+    },
+    {
+        "label": "Translator",
+        "importPath": "googletrans",
+        "description": "googletrans",
+        "isExtraImport": true,
+        "detail": "googletrans",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "T5ForConditionalGeneration",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5ForConditionalGeneration",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "crop_pred",
+        "kind": 6,
+        "importPath": "crop.crop",
+        "description": "crop.crop",
+        "peekOfCode": "class crop_pred:   \n    def crop_pr(self,N,P,K,pH,city):\n        import torch\n        import joblib\n        import requests,json\n        numerical_representations = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]\n        class_labels = ['apple', 'banana', 'blackgram', 'chickpea', 'coconut', 'coffee', 'cotton', \n                        'grapes', 'jute', 'kidneybeans', 'lentil', 'maize', 'mango', 'mothbeans', \n                        'mungbean', 'muskmelon', 'orange', 'papaya', 'pigeonpeas', 'pomegranate', \n                        'rice', 'watermelon']",
+        "detail": "crop.crop",
+        "documentation": {}
+    },
+    {
+        "label": "CropPredictor",
+        "kind": 6,
+        "importPath": "crop.crop_api",
+        "description": "crop.crop_api",
+        "peekOfCode": "class CropPredictor:   \n    def __init__(self):\n        self.numerical_representations = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]\n        self.class_labels = ['apple', 'banana', 'blackgram', 'chickpea', 'coconut', 'coffee', 'cotton', \n                        'grapes', 'jute', 'kidneybeans', 'lentil', 'maize', 'mango', 'mothbeans', \n                        'mungbean', 'muskmelon', 'orange', 'papaya', 'pigeonpeas', 'pomegranate', \n                        'rice', 'watermelon']\n        self.numerical_to_class = dict(zip(self.numerical_representations, self.class_labels))\n        self.loaded_model = joblib.load('decision_tree_model.joblib')\n    def fahrenheit_to_celsius(self, fahrenheit):",
+        "detail": "crop.crop_api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "crop.crop_api",
+        "description": "crop.crop_api",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"], \n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nclass CropPredictor:   \n    def __init__(self):",
+        "detail": "crop.crop_api",
+        "documentation": {}
+    },
+    {
+        "label": "crop_predictor",
+        "kind": 5,
+        "importPath": "crop.crop_api",
+        "description": "crop.crop_api",
+        "peekOfCode": "crop_predictor = CropPredictor()\n@app.post(\"/predict/\")\nasync def predict_crop(request: Request):\n    data = await request.json()\n    N = float(data[\"N\"])\n    P = float(data[\"P\"])\n    K = float(data[\"K\"])\n    pH = float(data[\"pH\"])\n    city = data[\"city\"]\n    recommendation1, recommendation2, recommendation3 = crop_predictor.predict_crop(N, P, K, pH, city)",
+        "detail": "crop.crop_api",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRequest",
+        "kind": 6,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "class QueryRequest(BaseModel):\n    queries: List[str]\n    language: str\n    @validator('language')\n    def validate_language(cls, value):\n        if len(value) != 2:\n            raise ValueError(\"Language code must be exactly two characters long\")\n        return value.lower()\n@app.post(\"/query/\")\nasync def query(request: QueryRequest):",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "search_pesticides",
+        "kind": 2,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "def search_pesticides(pest_name, number):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",\n            \"format\": \"json\",\n            \"prop\": \"extracts\",\n            \"exintro\": True,\n            \"explaintext\": True,\n            \"redirects\": number,",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "display_search_results",
+        "kind": 2,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "def display_search_results(pest_info):\n    if pest_info:\n        return f\"<p>{pest_info}</p>\"\n    else:\n        return \"<p>No information found.</p>\"\n@app.post(\"/pest_type/\")\nasync def pest_type(file: UploadFile = File(...)):\n    global pest\n    try:\n        contents = await file.read()",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\npest_names = [\n    \"rice leaf roller\", \"rice leaf caterpillar\", \"paddy stem maggot\", \"asiatic rice borer\",",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "pest_names",
+        "kind": 5,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "pest_names = [\n    \"rice leaf roller\", \"rice leaf caterpillar\", \"paddy stem maggot\", \"asiatic rice borer\",\n    \"yellow rice borer\", \"rice gall midge\", \"Rice Stemfly\", \"brown plant hopper\",\n    \"white backed plant hopper\", \"small brown plant hopper\", \"rice water weevil\", \"rice leafhopper\",\n    \"grain spreader thrips\", \"rice shell pest\", \"grub\", \"mole cricket\",\n    \"wireworm\", \"white margined moth\", \"black cutworm\", \"large cutworm\",\n    \"yellow cutworm\", \"red spider\", \"corn borer\", \"army worm\",\n    \"aphids\", \"Potosiabre vitarsis\", \"peach borer\", \"english grain aphid\",\n    \"green bug\", \"bird cherry-oataphid\", \"wheat blossom midge\", \"penthaleus major\",\n    \"longlegged spider mite\", \"wheat phloeothrips\", \"wheat sawfly\", \"cerodonta denticornis\",",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "num_classes",
+        "kind": 5,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "num_classes = len(pest_names)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nloaded_model = models.resnet50(pretrained=False)\nloaded_model.fc = nn.Linear(loaded_model.fc.in_features, num_classes)\nloaded_model.load_state_dict(torch.load('resnet50_0.497.pkl', map_location=device))\nloaded_model.to(device)\nloaded_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nloaded_model = models.resnet50(pretrained=False)\nloaded_model.fc = nn.Linear(loaded_model.fc.in_features, num_classes)\nloaded_model.load_state_dict(torch.load('resnet50_0.497.pkl', map_location=device))\nloaded_model.to(device)\nloaded_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "loaded_model",
+        "kind": 5,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "loaded_model = models.resnet50(pretrained=False)\nloaded_model.fc = nn.Linear(loaded_model.fc.in_features, num_classes)\nloaded_model.load_state_dict(torch.load('resnet50_0.497.pkl', map_location=device))\nloaded_model.to(device)\nloaded_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "loaded_model.fc",
+        "kind": 5,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "loaded_model.fc = nn.Linear(loaded_model.fc.in_features, num_classes)\nloaded_model.load_state_dict(torch.load('resnet50_0.497.pkl', map_location=device))\nloaded_model.to(device)\nloaded_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])\ndef search_pesticides(pest_name, number):",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "transform",
+        "kind": 5,
+        "importPath": "pest_pred.pest",
+        "description": "pest_pred.pest",
+        "peekOfCode": "transform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])\ndef search_pesticides(pest_name, number):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",",
+        "detail": "pest_pred.pest",
+        "documentation": {}
+    },
+    {
+        "label": "crop_pred",
+        "kind": 6,
+        "importPath": "plant_disease.crop",
+        "description": "plant_disease.crop",
+        "peekOfCode": "class crop_pred:\n    def fahrenheit_to_celsius(self, fahrenheit):\n        celsius = fahrenheit - 273.15\n        return celsius\n    def crop_pr(self, N, P, K, pH, city):\n        numerical_representations = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]\n        class_labels = ['apple', 'banana', 'blackgram', 'chickpea', 'coconut', 'coffee', 'cotton', \n                        'grapes', 'jute', 'kidneybeans', 'lentil', 'maize', 'mango', 'mothbeans', \n                        'mungbean', 'muskmelon', 'orange', 'papaya', 'pigeonpeas', 'pomegranate', \n                        'rice', 'watermelon']",
+        "detail": "plant_disease.crop",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRequest",
+        "kind": 6,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "class QueryRequest(BaseModel):\n    queries: List[str]\n    language: str\n    @validator('language')\n    def validate_language(cls, value):\n        if len(value) != 2:\n            raise ValueError(\"Language code must be exactly two characters long\")\n        return value.lower()\n@app.post(\"/predict/\")\nasync def predict_plant_disease(file: UploadFile = File(...)):",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "search_pesticides",
+        "kind": 2,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "def search_pesticides(predicted_class):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",\n            \"format\": \"json\",\n            \"list\": \"search\",\n            \"srsearch\": f\"{predicted_class} disease treatment\",\n            \"srprop\": \"snippet\",\n            \"srlimit\": \"5\"",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "display_search_results",
+        "kind": 2,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "def display_search_results(search_results):\n    if not search_results:\n        return \"<p>No search results found.</p>\"\n    result_text = \"<h3>About and Cure steps:</h3>\"\n    for result in search_results:\n        title = result['title']\n        snippet = result['snippet'].replace('<span class=\"searchmatch\">', '').replace('</span>', '')\n        result_text += f\"<p><strong>{title}:</strong><br>{snippet}</p>\"\n    return result_text\nclass QueryRequest(BaseModel):",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"], \n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nmodel_path = 'cnn_model.pth'\ncheckpoint = torch.load(model_path, map_location=torch.device('cpu'))",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "model_path",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "model_path = 'cnn_model.pth'\ncheckpoint = torch.load(model_path, map_location=torch.device('cpu'))\ncnn_model = models.densenet121(pretrained=True)\ncnn_model.classifier = nn.Linear(cnn_model.classifier.in_features, len(checkpoint['class_to_index']))\ncnn_model.load_state_dict(checkpoint['model_state_dict'])\ncnn_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "checkpoint = torch.load(model_path, map_location=torch.device('cpu'))\ncnn_model = models.densenet121(pretrained=True)\ncnn_model.classifier = nn.Linear(cnn_model.classifier.in_features, len(checkpoint['class_to_index']))\ncnn_model.load_state_dict(checkpoint['model_state_dict'])\ncnn_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "cnn_model",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "cnn_model = models.densenet121(pretrained=True)\ncnn_model.classifier = nn.Linear(cnn_model.classifier.in_features, len(checkpoint['class_to_index']))\ncnn_model.load_state_dict(checkpoint['model_state_dict'])\ncnn_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])\nlabels = [",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "cnn_model.classifier",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "cnn_model.classifier = nn.Linear(cnn_model.classifier.in_features, len(checkpoint['class_to_index']))\ncnn_model.load_state_dict(checkpoint['model_state_dict'])\ncnn_model.eval()\ntransform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])\nlabels = [\n    \"Apple___Apple_scab\", \"Apple___Black_rot\", \"Apple___Cedar_apple_rust\", \"Apple___healthy\",",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "transform",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "transform = transforms.Compose([\n    transforms.Resize((224, 224)),\n    transforms.ToTensor(),\n    transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))\n])\nlabels = [\n    \"Apple___Apple_scab\", \"Apple___Black_rot\", \"Apple___Cedar_apple_rust\", \"Apple___healthy\",\n    \"Blueberry___healthy\", \"Cherry_(including_sour)___Powdery_mildew\", \"Cherry_(including_sour)___healthy\",\n    \"Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\", \"Corn_(maize)___Common_rust_\",\n    \"Corn_(maize)___Northern_Leaf_Blight\", \"Corn_(maize)___healthy\", \"Grape___Black_rot\",",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "labels = [\n    \"Apple___Apple_scab\", \"Apple___Black_rot\", \"Apple___Cedar_apple_rust\", \"Apple___healthy\",\n    \"Blueberry___healthy\", \"Cherry_(including_sour)___Powdery_mildew\", \"Cherry_(including_sour)___healthy\",\n    \"Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\", \"Corn_(maize)___Common_rust_\",\n    \"Corn_(maize)___Northern_Leaf_Blight\", \"Corn_(maize)___healthy\", \"Grape___Black_rot\",\n    \"Grape___Esca_(Black_Measles)\", \"Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\", \"Grape___healthy\",\n    \"Orange___Haunglongbing_(Citrus_greening)\", \"Peach___Bacterial_spot\", \"Peach___healthy\",\n    \"Pepper,_bell___Bacterial_spot\", \"Pepper,_bell___healthy\", \"Potato___Early_blight\", \"Potato___Late_blight\",\n    \"Potato___healthy\", \"Raspberry___healthy\", \"Soybean___healthy\", \"Squash___Powdery_mildew\",\n    \"Strawberry___Leaf_scorch\", \"Strawberry___healthy\", \"Tomato___Bacterial_spot\", \"Tomato___Early_blight\",",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "model = T5ForConditionalGeneration.from_pretrained(\"t5-base\")\ntokenizer = T5Tokenizer.from_pretrained(\"t5-base\")\nplant = None\ndef search_pesticides(predicted_class):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",\n            \"format\": \"json\",\n            \"list\": \"search\",",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "tokenizer",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "tokenizer = T5Tokenizer.from_pretrained(\"t5-base\")\nplant = None\ndef search_pesticides(predicted_class):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",\n            \"format\": \"json\",\n            \"list\": \"search\",\n            \"srsearch\": f\"{predicted_class} disease treatment\",",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "plant",
+        "kind": 5,
+        "importPath": "plant_disease.plant",
+        "description": "plant_disease.plant",
+        "peekOfCode": "plant = None\ndef search_pesticides(predicted_class):\n    try:\n        url = \"https://en.wikipedia.org/w/api.php\"\n        params = {\n            \"action\": \"query\",\n            \"format\": \"json\",\n            \"list\": \"search\",\n            \"srsearch\": f\"{predicted_class} disease treatment\",\n            \"srprop\": \"snippet\",",
+        "detail": "plant_disease.plant",
+        "documentation": {}
+    },
+    {
+        "label": "CropRequest",
+        "kind": 6,
+        "importPath": "profit annalysis.profit",
+        "description": "profit annalysis.profit",
+        "peekOfCode": "class CropRequest(BaseModel):\n    crop: str\n    seeding_date: datetime\n@app.post(\"/profitability\")\ndef is_profit(request: CropRequest):\n    crop = request.crop.capitalize()\n    seeding_date = request.seeding_date\n    if crop not in days_to_yield:\n        raise HTTPException(status_code=400, detail=\"Invalid crop name\")\n    days_to_grow = days_to_yield[crop]",
+        "detail": "profit annalysis.profit",
+        "documentation": {}
+    },
+    {
+        "label": "is_profit",
+        "kind": 2,
+        "importPath": "profit annalysis.profit",
+        "description": "profit annalysis.profit",
+        "peekOfCode": "def is_profit(request: CropRequest):\n    crop = request.crop.capitalize()\n    seeding_date = request.seeding_date\n    if crop not in days_to_yield:\n        raise HTTPException(status_code=400, detail=\"Invalid crop name\")\n    days_to_grow = days_to_yield[crop]\n    yield_date = seeding_date + timedelta(days=days_to_grow)\n    start_month, end_month = growth_periods[crop].split(\" to \")\n    start_month_index = datetime.strptime(start_month, \"%B\").month\n    end_month_index = datetime.strptime(end_month, \"%B\").month",
+        "detail": "profit annalysis.profit",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "profit annalysis.profit",
+        "description": "profit annalysis.profit",
+        "peekOfCode": "app = FastAPI()\n# Allow all origins\norigins = [\"*\"]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)",
+        "detail": "profit annalysis.profit",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "profit annalysis.profit",
+        "description": "profit annalysis.profit",
+        "peekOfCode": "origins = [\"*\"]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\ndays_to_yield = {\n    \"Apple\": 365,",
+        "detail": "profit annalysis.profit",
+        "documentation": {}
+    },
+    {
+        "label": "days_to_yield",
+        "kind": 5,
+        "importPath": "profit annalysis.profit",
+        "description": "profit annalysis.profit",
+        "peekOfCode": "days_to_yield = {\n    \"Apple\": 365,\n    \"Banana\": 300,\n    \"Blackgram\": 65,\n    \"Chickpea\": 95,\n    \"Coconut\": 365,\n    \"Coffee\": 365,\n    \"Cotton\": 165,\n    \"Grapes\": 365,\n    \"Jute\": 135,",
+        "detail": "profit annalysis.profit",
+        "documentation": {}
+    },
+    {
+        "label": "growth_periods",
+        "kind": 5,
+        "importPath": "profit annalysis.profit",
+        "description": "profit annalysis.profit",
+        "peekOfCode": "growth_periods = {\n    \"Apple\": \"January to December\",\n    \"Banana\": \"January to December\",\n    \"Blackgram\": \"June to November\",\n    \"Chickpea\": \"October to February\",\n    \"Coconut\": \"January to December\",\n    \"Coffee\": \"January to December\",\n    \"Cotton\": \"May to November\",\n    \"Grapes\": \"January to December\",\n    \"Jute\": \"March to August\",",
+        "detail": "profit annalysis.profit",
+        "documentation": {}
+    },
+    {
+        "label": "predict_and_visualize",
+        "kind": 2,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "def predict_and_visualize(image):\n    input_tensor = transform(image).unsqueeze(0)\n    with torch.no_grad():\n        output = model(input_tensor)\n        _, predicted = output.max(1)\n        predicted_class = class_names[predicted.item()]\n    return predicted_class\ndef make_prediction(image, model):\n    img = image.resize((256, 256))\n    img_array = np.array(img) / 255.0",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "make_prediction",
+        "kind": 2,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "def make_prediction(image, model):\n    img = image.resize((256, 256))\n    img_array = np.array(img) / 255.0\n    img_batch = np.expand_dims(img_array, axis=0)\n    classes = [\"Gravel\", \"Sand\", \"Silt\"]\n    predicted_value = classes[model.predict(img_batch).argmax()]\n    return predicted_value\ndef classify_images(image, model):\n    img = np.array(image)\n    img = cv2.resize(img, (1024, 1024))",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "classify_images",
+        "kind": 2,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "def classify_images(image, model):\n    img = np.array(image)\n    img = cv2.resize(img, (1024, 1024))\n    im_dim = 256\n    gravel_count = sand_count = silt_count = 0\n    classes = ['Gravel', 'Sand', 'Silt']\n    for r in range(0, img.shape[0], im_dim):\n        for c in range(0, img.shape[1], im_dim):\n            cropped_img = img[r:r + im_dim, c:c + im_dim]\n            if cropped_img.shape[0] == im_dim and cropped_img.shape[1] == im_dim:",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "model_classify",
+        "kind": 2,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "def model_classify(cropped_img, model):\n    img_array = cropped_img / 255.0\n    img_batch = np.expand_dims(img_array, axis=0)\n    classes = ['Gravel', 'Sand', 'Silt']\n    prediction_array = model.predict(img_batch)[0]\n    first_idx = np.argmax(prediction_array)\n    return classes[first_idx]\ndef classify_percentage(image):\n    proportions = classify_images(image, texture_model)\n    return {",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "classify_percentage",
+        "kind": 2,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "def classify_percentage(image):\n    proportions = classify_images(image, texture_model)\n    return {\n        \"Gravel\": round(proportions[0] * 100, 2),\n        \"Sand\": round(proportions[1] * 100, 2),\n        \"Silt\": round(proportions[2] * 100, 2)\n    }\ndef get_nutrient_and_ph_level(soil_type, texture):\n    if (soil_type in soil_info) and (texture in soil_info[soil_type]):\n        nutrient_level = soil_info[soil_type][texture]",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "get_nutrient_and_ph_level",
+        "kind": 2,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "def get_nutrient_and_ph_level(soil_type, texture):\n    if (soil_type in soil_info) and (texture in soil_info[soil_type]):\n        nutrient_level = soil_info[soil_type][texture]\n        ph_level = soil_info[soil_type]['pH']\n        return nutrient_level, ph_level\n    else:\n        return None, None\nwith open(r'C:\\Users\\HARISH\\Documents\\Project Agri\\soil_crop\\data.json', 'r') as file:\n    data = json.load(file)\nN = 0",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "get_npk_value",
+        "kind": 2,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "def get_npk_value(location=\"Coimbatore\", level=\"medium\", soil_type='Black soil', texture=\"sand\"):\n    global N, P, K\n    if level == \"Invalid texture\":\n        return \"Invalid texture\"\n    nutrient_level, ph_level = get_nutrient_and_ph_level(soil_type, texture)\n    level_capitalized = nutrient_level.capitalize()\n    for entry in data:\n        if entry['District'].lower() == location.lower():  # Convert both to lowercase before comparison\n            npk_key = f'Nitrogen - {level_capitalized}'\n            print(npk_key)",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "predict_crop",
+        "kind": 2,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "def predict_crop(N, P, K, ph_level, location):\n    if N == \"Not available\" or P == \"Not available\" or K == \"Not available\":\n        return \"NPK values are not available for this location and texture.\"\n    else:\n        from crop import crop_pred\n        crop_instance = crop_pred()\n        return crop_instance.crop_pr(N, P, K, ph_level, location)\n@app.post(\"/predict_soil/\")\nasync def predict(image: UploadFile = File(...), location: str = Form(...)):\n    try:",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"], \n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n# Load models\nmodel = vgg19(pretrained=True)",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "model = vgg19(pretrained=True)\nnum_classes = 10\nmodel.classifier[-1] = nn.Linear(4096, num_classes)\nmodel.load_state_dict(torch.load('vgg19_soil_classification.pth', map_location=torch.device('cpu')))\nmodel.eval()\ntexture_model = load_model('soil.h5')\n# Class names and soil information\nclass_names = ['Alluvial soil', 'Black soil', 'Cinder Soil', 'Clayey soils', 'Laterite soil', 'Loamy soil', 'Peat Soil', 'Sandy loam', 'Sandy soil', 'Yellow Soil']\nsoil_info = {\n    'Alluvial soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7.5', 'neutral': '7', 'alkaline': '6.5'}},",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "num_classes",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "num_classes = 10\nmodel.classifier[-1] = nn.Linear(4096, num_classes)\nmodel.load_state_dict(torch.load('vgg19_soil_classification.pth', map_location=torch.device('cpu')))\nmodel.eval()\ntexture_model = load_model('soil.h5')\n# Class names and soil information\nclass_names = ['Alluvial soil', 'Black soil', 'Cinder Soil', 'Clayey soils', 'Laterite soil', 'Loamy soil', 'Peat Soil', 'Sandy loam', 'Sandy soil', 'Yellow Soil']\nsoil_info = {\n    'Alluvial soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7.5', 'neutral': '7', 'alkaline': '6.5'}},\n    'Loamy soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "model.classifier[-1]",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "model.classifier[-1] = nn.Linear(4096, num_classes)\nmodel.load_state_dict(torch.load('vgg19_soil_classification.pth', map_location=torch.device('cpu')))\nmodel.eval()\ntexture_model = load_model('soil.h5')\n# Class names and soil information\nclass_names = ['Alluvial soil', 'Black soil', 'Cinder Soil', 'Clayey soils', 'Laterite soil', 'Loamy soil', 'Peat Soil', 'Sandy loam', 'Sandy soil', 'Yellow Soil']\nsoil_info = {\n    'Alluvial soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7.5', 'neutral': '7', 'alkaline': '6.5'}},\n    'Loamy soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},\n    'Black soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '8', 'neutral': '7.5', 'alkaline': '7'}},",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "texture_model",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "texture_model = load_model('soil.h5')\n# Class names and soil information\nclass_names = ['Alluvial soil', 'Black soil', 'Cinder Soil', 'Clayey soils', 'Laterite soil', 'Loamy soil', 'Peat Soil', 'Sandy loam', 'Sandy soil', 'Yellow Soil']\nsoil_info = {\n    'Alluvial soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7.5', 'neutral': '7', 'alkaline': '6.5'}},\n    'Loamy soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},\n    'Black soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '8', 'neutral': '7.5', 'alkaline': '7'}},\n    'Sandy loam': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.8', 'neutral': '7', 'alkaline': '7.5'}},\n    'Clayey soils': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7.2', 'neutral': '6.8', 'alkaline': '6.5'}},\n    'Sandy soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "class_names",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "class_names = ['Alluvial soil', 'Black soil', 'Cinder Soil', 'Clayey soils', 'Laterite soil', 'Loamy soil', 'Peat Soil', 'Sandy loam', 'Sandy soil', 'Yellow Soil']\nsoil_info = {\n    'Alluvial soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7.5', 'neutral': '7', 'alkaline': '6.5'}},\n    'Loamy soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},\n    'Black soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '8', 'neutral': '7.5', 'alkaline': '7'}},\n    'Sandy loam': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.8', 'neutral': '7', 'alkaline': '7.5'}},\n    'Clayey soils': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7.2', 'neutral': '6.8', 'alkaline': '6.5'}},\n    'Sandy soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},\n    'Laterite soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},\n    'Yellow Soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7', 'neutral': '6.5', 'alkaline': '6'}},",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "soil_info",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "soil_info = {\n    'Alluvial soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7.5', 'neutral': '7', 'alkaline': '6.5'}},\n    'Loamy soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},\n    'Black soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '8', 'neutral': '7.5', 'alkaline': '7'}},\n    'Sandy loam': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.8', 'neutral': '7', 'alkaline': '7.5'}},\n    'Clayey soils': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7.2', 'neutral': '6.8', 'alkaline': '6.5'}},\n    'Sandy soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},\n    'Laterite soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '6.5', 'neutral': '6.8', 'alkaline': '7.2'}},\n    'Yellow Soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '7', 'neutral': '6.5', 'alkaline': '6'}},\n    'Peat Soil': {'sand': 'high', 'silt': 'medium', 'gravel': 'low', 'pH': {'acidic': '5.5', 'neutral': '6', 'alkaline': '6.5'}},",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "transform",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "transform = transforms.Compose([\n    transforms.Resize((224, 224)),  \n    transforms.ToTensor(),          \n    transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])\n])\ndef predict_and_visualize(image):\n    input_tensor = transform(image).unsqueeze(0)\n    with torch.no_grad():\n        output = model(input_tensor)\n        _, predicted = output.max(1)",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "N",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "N = 0\nP = 0\nK = 0\ndef get_npk_value(location=\"Coimbatore\", level=\"medium\", soil_type='Black soil', texture=\"sand\"):\n    global N, P, K\n    if level == \"Invalid texture\":\n        return \"Invalid texture\"\n    nutrient_level, ph_level = get_nutrient_and_ph_level(soil_type, texture)\n    level_capitalized = nutrient_level.capitalize()\n    for entry in data:",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "P",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "P = 0\nK = 0\ndef get_npk_value(location=\"Coimbatore\", level=\"medium\", soil_type='Black soil', texture=\"sand\"):\n    global N, P, K\n    if level == \"Invalid texture\":\n        return \"Invalid texture\"\n    nutrient_level, ph_level = get_nutrient_and_ph_level(soil_type, texture)\n    level_capitalized = nutrient_level.capitalize()\n    for entry in data:\n        if entry['District'].lower() == location.lower():  # Convert both to lowercase before comparison",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "K",
+        "kind": 5,
+        "importPath": "soil_pred_crop.api",
+        "description": "soil_pred_crop.api",
+        "peekOfCode": "K = 0\ndef get_npk_value(location=\"Coimbatore\", level=\"medium\", soil_type='Black soil', texture=\"sand\"):\n    global N, P, K\n    if level == \"Invalid texture\":\n        return \"Invalid texture\"\n    nutrient_level, ph_level = get_nutrient_and_ph_level(soil_type, texture)\n    level_capitalized = nutrient_level.capitalize()\n    for entry in data:\n        if entry['District'].lower() == location.lower():  # Convert both to lowercase before comparison\n            npk_key = f'Nitrogen - {level_capitalized}'",
+        "detail": "soil_pred_crop.api",
+        "documentation": {}
+    },
+    {
+        "label": "crop_pred",
+        "kind": 6,
+        "importPath": "soil_pred_crop.crop",
+        "description": "soil_pred_crop.crop",
+        "peekOfCode": "class crop_pred:\n    def fahrenheit_to_celsius(self, fahrenheit):\n        celsius = fahrenheit - 273.15\n        return celsius\n    def crop_pr(self, N, P, K, pH, city):\n        numerical_representations = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]\n        class_labels = ['apple', 'banana', 'blackgram', 'chickpea', 'coconut', 'coffee', 'cotton', \n                        'grapes', 'jute', 'kidneybeans', 'lentil', 'maize', 'mango', 'mothbeans', \n                        'mungbean', 'muskmelon', 'orange', 'papaya', 'pigeonpeas', 'pomegranate', \n                        'rice', 'watermelon']",
+        "detail": "soil_pred_crop.crop",
+        "documentation": {}
+    }
+]

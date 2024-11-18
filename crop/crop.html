@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Predictor</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: url('pexels-quang-nguyen-vinh-222549-2165688.jpg') no-repeat center center fixed;
+            background-size: cover;
+            position: relative;
+            overflow: hidden;
+            margin: 0;
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.271); /* Slightly transparent white background */
+            margin: auto;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Stronger shadow for better readability */
+            animation: fadeIn 1s ease-in-out; /* Smooth fade-in animation */
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            text-align: center;
+            color: #007bff;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for better contrast */
+        }
+
+        .form-control {
+            border-radius: 20px;
+            border: 1px solid #007bff; /* Blue border to match heading */
+            background-color: rgba(255, 255, 255, 0.347); /* Slightly transparent input background */
+        }
+
+        .floating-window {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            z-index: 999;
+            display: none;
+            animation: fadeIn 0.5s ease-in-out; /* Smooth fade-in animation */
+        }
+
+        .loading-spinner {
+            border: 6px solid #f3f3f3;
+            border-top: 6px solid #3498db;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 2s linear infinite;
+            margin: 0 auto;
+            margin-top: 20px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        /* Ensuring form labels are brighter and more readable */
+        label {
+            color: #000;
+            font-weight: bold;
+        }
+
+        /* Button styling */
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            border-radius: 20px;
+            transition: background-color 0.3s, box-shadow 0.3s; /* Smooth transition for button effects */
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Hover effect for button */
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Crop Predictor</h2>
+        <form id="cropForm">
+            <div class="form-group">
+                <label for="N">N Value:</label>
+                <input type="text" class="form-control" id="N" name="N">
+            </div>
+            <div class="form-group">
+                <label for="P">P Value:</label>
+                <input type="text" class="form-control" id="P" name="P">
+            </div>
+            <div class="form-group">
+                <label for="K">K Value:</label>
+                <input type="text" class="form-control" id="K" name="K">
+            </div>
+            <div class="form-group">
+                <label for="pH">pH Value:</label>
+                <input type="text" class="form-control" id="pH" name="pH">
+            </div>
+            <div class="form-group">
+                <label for="city">City Name:</label>
+                <input type="text" class="form-control" id="city" name="city">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+    <!-- Floating window for displaying predictions -->
+    <div class="floating-window" id="resultWindow">
+        <h3>Recommendation</h3>
+        <div id="result" class="mt-3"></div>
+    </div>
+
+    <!-- Loading spinner -->
+    <div id="loading" class="loading-spinner d-none"></div>
+
+    <script>
+        document.getElementById("cropForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            const formData = new FormData(this);
+            const resultDiv = document.getElementById("result");
+            const loadingDiv = document.getElementById("loading");
+            const resultWindow = document.getElementById("resultWindow");
+            resultDiv.innerHTML = ""; // Clear previous results
+            loadingDiv.classList.remove("d-none"); // Show loading spinner
+            
+            fetch('http://localhost:8003/predict/', {
+                method: 'POST',
+                body: JSON.stringify(Object.fromEntries(formData)),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Hide loading spinner
+                loadingDiv.classList.add("d-none");
+                // Display predictions
+                resultDiv.innerHTML = `
+                    <p><strong>Prediction 1:</strong> ${data.Prediction_1}</p>
+                    <p><strong>Prediction 2:</strong> ${data.Prediction_2}</p>
+                    <p><strong>Prediction 3:</strong> ${data.Prediction_3}</p>
+                `;
+                // Show floating window with predictions
+                resultWindow.style.display = "block";
+            })
+            .catch(error => {
+                // Hide loading spinner
+                loadingDiv.classList.add("d-none");
+                // Display error message
+                resultDiv.innerHTML = `<p>Error: ${error.message}</p>`;
+                // Show floating window with error message
+                resultWindow.style.display = "block";
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+Common Rust: Puccinia sorghi(in tamil)
+
+Symptoms:    
+
+Minute flecks are appeared on both sides of leaves.
+Circular to elongate cinnamon brown, powdery, erumpent pustules on both leaf surfaces
+As the crop matures brownish black pustules develop
+In severe cases infection spreads to sheath and other parts
+Pathogen:
+
+Puccinia sorghi is a heteroceious rust.
+Uredospores single celled, echinulate, yellowish brown, pedicellate, elliptical
+Teliospores reddish or brown in colour, two celled, rounded at the apex
+Alternate hosts - Oxalis europea, O. corniculata and O. stricta
+Basidiospores infect Oxalis corniculata, where pycnial and aecial stages occur
+Aeciospores carried by wind and infect maize
+Favourable condition:
+
+Cool, warm and moist weather (15 - 25o C)
+Survival and Mode of Spread:
+
+Primary spread through alternate hosts
+Secondary spread through wind borne uredospores
+Management:
+
+Remove the alternate hosts .
+Collect the remains of the crop and destroy by burning or burying
+Foliar spray of kresoxim-methyl 44.3% SC @ 1 ml/l or tebuconazole @ 1ml/l orchlorothalonil or mancozeb 2 ml/l at 35 and 50 DAS
+
+Common rust frequently occurs in the northern U.S. in mid to later summer. It rarely reaches levels that cause yield loss in commercial hybrids. It is most problematic during prolonged periods of cool, wet weather. Rust diseases are generally easy to identify by the appearance of brown pustules.
+
+Symptoms
+Common rust produces rust-colored to dark brown, elongated pustules on both leaf surfaces. The pustules contain rust spores (urediniospores) that are cinnamon brown in color. Pustules darken as they age. Leaves, as well as sheaths, can be infected. Under severe conditions leaf chlorosis and death may occur. Common rust can be differentiated from Southern rust by the brown pustules occurring on both top and bottom leaf surfaces with common rust.
+
+Conditions and timing that favor disease
+close up of corn leaf with raised brown spots.
+The common rust fungus overwinters in the southern U.S. and Mexico. Urediniospores are blown north to the Midwestern Corn Belt in the summer and infection occurs in June or July. Young leaves are most susceptible to infection and pustules are more likely to form after corn silking. The disease favors cool temperatures (60 - 76 degrees F), heavy dews, about six hours of leaf wetness, and relative humidity greater than 95 percent. Temperatures above 80 degrees F suppress disease development and spread.
+
+Causal pathogen
+The pathogen is a rust fungus called Puccinia sorghi.
+
+Disease management
+The best management practice is to use resistant corn hybrids. Fungicides can also be beneficial, especially if applied early when few pustules have appeared on the leaves.
