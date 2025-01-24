@@ -1,4 +1,4 @@
-# 📂 Project Name
+# 📂 Yiedify
 
 ## 📝 Overview
 This project **requires you to download specific files** from the provided Google Drive link and place them in the **same folder as this project** for proper functioning.
